@@ -1,0 +1,1404 @@
+OCC_CODE,OCC_TITLE,TOT_EMP,JOBS_1000,H_MEAN,A_MEAN,A_MEDIAN
+00-0000,All Occupations,140886310.00,,28.01,58260.00,45760.00
+11-0000,Management Occupations,8909910.00,,59.31,123370.00,102450.00
+11-1000,Top Executives,3229990.00,,57.94,120520.00,98720.00
+11-1010,Chief Executives,200480.00,,102.41,213020.00,179520.00
+11-1011,Chief Executives,200480.00,,102.41,213020.00,179520.00
+11-1020,General and Operations Managers,2984920.00,,55.41,115250.00,97970.00
+11-1021,General and Operations Managers,2984920.00,,55.41,115250.00,97970.00
+11-1030,Legislators,44590.00,,*,57110.00,37270.00
+11-1031,Legislators,44590.00,,*,57110.00,37270.00
+11-2000,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",838050.00,,69.77,145130.00,128160.00
+11-2010,Advertising and Promotions Managers,22520.00,,68.68,142860.00,127150.00
+11-2011,Advertising and Promotions Managers,22520.00,,68.68,142860.00,127150.00
+11-2020,Marketing and Sales Managers,732490.00,,70.48,146600.00,129330.00
+11-2021,Marketing Managers,278690.00,,73.77,153440.00,135030.00
+11-2022,Sales Managers,453800.00,,68.46,142390.00,127490.00
+11-2030,Public Relations and Fundraising Managers,83040.00,,63.85,132800.00,119860.00
+11-2032,Public Relations Managers,59850.00,,66.35,138000.00,125780.00
+11-2033,Fundraising Managers,23190.00,,57.40,119400.00,100810.00
+11-3000,Operations Specialties Managers,2116020.00,,67.26,139900.00,127140.00
+11-3010,Administrative Services and Facilities Managers,325850.00,,52.69,109590.00,99290.00
+11-3012,Administrative Services Managers,224620.00,,54.34,113030.00,100170.00
+11-3013,Facilities Managers,101230.00,,49.03,101970.00,97930.00
+11-3020,Computer and Information Systems Managers,485190.00,,78.33,162930.00,159010.00
+11-3021,Computer and Information Systems Managers,485190.00,,78.33,162930.00,159010.00
+11-3030,Financial Managers,681070.00,,73.78,153460.00,131710.00
+11-3031,Financial Managers,681070.00,,73.78,153460.00,131710.00
+11-3050,Industrial Production Managers,192270.00,,56.62,117780.00,103150.00
+11-3051,Industrial Production Managers,192270.00,,56.62,117780.00,103150.00
+11-3060,Purchasing Managers,69310.00,,64.71,134590.00,127150.00
+11-3061,Purchasing Managers,69310.00,,64.71,134590.00,127150.00
+11-3070,"Transportation, Storage, and Distribution Managers",144640.00,,50.76,105580.00,98230.00
+11-3071,"Transportation, Storage, and Distribution Managers",144640.00,,50.76,105580.00,98230.00
+11-3110,Compensation and Benefits Managers,15330.00,,67.05,139470.00,127530.00
+11-3111,Compensation and Benefits Managers,15330.00,,67.05,139470.00,127530.00
+11-3120,Human Resources Managers,166530.00,,65.67,136590.00,126230.00
+11-3121,Human Resources Managers,166530.00,,65.67,136590.00,126230.00
+11-3130,Training and Development Managers,35830.00,,61.92,128800.00,120130.00
+11-3131,Training and Development Managers,35830.00,,61.92,128800.00,120130.00
+11-9000,Other Management Occupations,2725860.00,,51.55,107230.00,97630.00
+11-9010,"Farmers, Ranchers, and Other Agricultural Managers",5220.00,,37.71,78440.00,73060.00
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",5220.00,,37.71,78440.00,73060.00
+11-9020,Construction Managers,284750.00,,52.02,108210.00,98890.00
+11-9021,Construction Managers,284750.00,,52.02,108210.00,98890.00
+11-9030,Education and Childcare Administrators,537100.00,,47.73,99280.00,95010.00
+11-9031,"Education and Childcare Administrators, Preschool and Daycare",56430.00,,25.87,53800.00,47310.00
+11-9032,"Education Administrators, Kindergarten through Secondary",274710.00,,*,102650.00,98420.00
+11-9033,"Education Administrators, Postsecondary",155990.00,,53.49,111260.00,96910.00
+11-9039,"Education Administrators, All Other",49970.00,,45.54,94730.00,90560.00
+11-9040,Architectural and Engineering Managers,187100.00,,76.43,158970.00,152350.00
+11-9041,Architectural and Engineering Managers,187100.00,,76.43,158970.00,152350.00
+11-9050,Food Service Managers,210680.00,,30.75,63970.00,59440.00
+11-9051,Food Service Managers,210680.00,,30.75,63970.00,59440.00
+11-9070,Entertainment and Recreation Managers,21460.00,,36.75,76430.00,63270.00
+11-9071,Gambling Managers,3660.00,,42.88,89190.00,76910.00
+11-9072,"Entertainment and Recreation Managers, Except Gambling",17800.00,,35.48,73810.00,62000.00
+11-9080,Lodging Managers,35920.00,,32.58,67770.00,59430.00
+11-9081,Lodging Managers,35920.00,,32.58,67770.00,59430.00
+11-9110,Medical and Health Services Managers,436770.00,,57.61,119840.00,101340.00
+11-9111,Medical and Health Services Managers,436770.00,,57.61,119840.00,101340.00
+11-9120,Natural Sciences Managers,74760.00,,75.05,156110.00,137900.00
+11-9121,Natural Sciences Managers,74760.00,,75.05,156110.00,137900.00
+11-9130,Postmasters and Mail Superintendents,12750.00,,39.34,81820.00,80250.00
+11-9131,Postmasters and Mail Superintendents,12750.00,,39.34,81820.00,80250.00
+11-9140,"Property, Real Estate, and Community Association Managers",234680.00,,33.67,70030.00,59230.00
+11-9141,"Property, Real Estate, and Community Association Managers",234680.00,,33.67,70030.00,59230.00
+11-9150,Social and Community Service Managers,156400.00,,36.92,76790.00,74000.00
+11-9151,Social and Community Service Managers,156400.00,,36.92,76790.00,74000.00
+11-9160,Emergency Management Directors,10320.00,,40.77,84800.00,76730.00
+11-9161,Emergency Management Directors,10320.00,,40.77,84800.00,76730.00
+11-9170,Personal Service Managers,20060.00,,35.75,74360.00,60360.00
+11-9171,Funeral Home Managers,12710.00,,39.86,82900.00,74000.00
+11-9179,"Personal Service Managers, All Other",7350.00,,28.65,59580.00,60360.00
+11-9190,Miscellaneous Managers,497890.00,,62.36,129710.00,124650.00
+11-9199,"Managers, All Other",497890.00,,62.36,129710.00,124650.00
+13-0000,Business and Financial Operations Occupations,9053790.00,,39.72,82610.00,76570.00
+13-1000,Business Operations Specialists,6152960.00,,38.64,80380.00,76040.00
+13-1010,"Agents and Business Managers of Artists, Performers, and Athletes",12480.00,,55.97,116410.00,78410.00
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",12480.00,,55.97,116410.00,78410.00
+13-1020,Buyers and Purchasing Agents,439020.00,,34.88,72540.00,63470.00
+13-1020,Buyers and Purchasing Agents,439020.00,,34.88,72540.00,63470.00
+13-1030,"Claims Adjusters, Appraisers, Examiners, and Investigators",289580.00,,34.06,70850.00,64710.00
+13-1031,"Claims Adjusters, Examiners, and Investigators",278140.00,,34.11,70960.00,65080.00
+13-1032,"Insurance Appraisers, Auto Damage",11430.00,,32.78,68180.00,62680.00
+13-1040,Compliance Officers,334340.00,,36.45,75810.00,71650.00
+13-1041,Compliance Officers,334340.00,,36.45,75810.00,71650.00
+13-1050,Cost Estimators,208950.00,,35.45,73740.00,65170.00
+13-1051,Cost Estimators,208950.00,,35.45,73740.00,65170.00
+13-1070,Human Resources Workers,805080.00,,34.24,71210.00,62490.00
+13-1071,Human Resources Specialists,740830.00,,34.00,70720.00,62290.00
+13-1074,Farm Labor Contractors,440.00,,26.16,54400.00,47770.00
+13-1075,Labor Relations Specialists,63810.00,,37.05,77070.00,77010.00
+13-1080,Logisticians and Project Management Specialists,933180.00,,45.45,94530.00,82010.00
+13-1081,Logisticians,189320.00,,38.09,79230.00,77030.00
+13-1082,Project Management Specialists,743860.00,,47.32,98420.00,94500.00
+13-1110,Management Analysts,768450.00,,48.33,100530.00,93000.00
+13-1111,Management Analysts,768450.00,,48.33,100530.00,93000.00
+13-1120,"Meeting, Convention, and Event Planners",98150.00,,27.81,57850.00,49470.00
+13-1121,"Meeting, Convention, and Event Planners",98150.00,,27.81,57850.00,49470.00
+13-1130,Fundraisers,82080.00,,31.19,64870.00,60660.00
+13-1131,Fundraisers,82080.00,,31.19,64870.00,60660.00
+13-1140,"Compensation, Benefits, and Job Analysis Specialists",87750.00,,35.49,73810.00,64120.00
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",87750.00,,35.49,73810.00,64120.00
+13-1150,Training and Development Specialists,336030.00,,32.51,67620.00,61570.00
+13-1151,Training and Development Specialists,336030.00,,32.51,67620.00,61570.00
+13-1160,Market Research Analysts and Marketing Specialists,727540.00,,36.58,76080.00,63920.00
+13-1161,Market Research Analysts and Marketing Specialists,727540.00,,36.58,76080.00,63920.00
+13-1190,Miscellaneous Business Operations Specialists,1030330.00,,38.10,79240.00,74670.00
+13-1199,"Business Operations Specialists, All Other",1030330.00,,38.10,79240.00,74670.00
+13-2000,Financial Specialists,2900840.00,,41.99,87350.00,77300.00
+13-2010,Accountants and Auditors,1318550.00,,40.37,83980.00,77250.00
+13-2011,Accountants and Auditors,1318550.00,,40.37,83980.00,77250.00
+13-2020,Property Appraisers and Assessors,58340.00,,33.68,70050.00,61340.00
+13-2020,Property Appraisers and Assessors,58340.00,,33.68,70050.00,61340.00
+13-2030,Budget Analysts,47440.00,,40.50,84240.00,79940.00
+13-2031,Budget Analysts,47440.00,,40.50,84240.00,79940.00
+13-2040,Credit Analysts,68770.00,,42.32,88030.00,77440.00
+13-2041,Credit Analysts,68770.00,,42.32,88030.00,77440.00
+13-2050,Financial Analysts and Advisors,716930.00,,51.13,106340.00,81730.00
+13-2051,Financial and Investment Analysts,291880.00,,49.53,103020.00,91580.00
+13-2052,Personal Financial Advisors,263030.00,,57.67,119960.00,94170.00
+13-2053,Insurance Underwriters,107690.00,,38.43,79940.00,76390.00
+13-2054,Financial Risk Specialists,54320.00,,53.18,110610.00,100000.00
+13-2060,Financial Examiners,60750.00,,46.24,96180.00,81410.00
+13-2061,Financial Examiners,60750.00,,46.24,96180.00,81410.00
+13-2070,Credit Counselors and Loan Officers,371400.00,,37.52,78040.00,62030.00
+13-2071,Credit Counselors,31230.00,,24.25,50430.00,47580.00
+13-2072,Loan Officers,340170.00,,38.74,80570.00,63380.00
+13-2080,"Tax Examiners, Collectors and Preparers, and Revenue Agents",135460.00,,26.80,55750.00,48900.00
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",52270.00,,30.38,63200.00,56780.00
+13-2082,Tax Preparers,83190.00,,24.56,51080.00,46290.00
+13-2090,Miscellaneous Financial Specialists,123200.00,,38.64,80370.00,73240.00
+13-2099,"Financial Specialists, All Other",123200.00,,38.64,80370.00,73240.00
+15-0000,Computer and Mathematical Occupations,4654750.00,,48.01,99860.00,97540.00
+15-1200,Computer Occupations,4389910.00,,47.89,99620.00,97430.00
+15-1210,Computer and Information Analysts,662370.00,,50.40,104840.00,99680.00
+15-1211,Computer Systems Analysts,505150.00,,49.14,102210.00,99270.00
+15-1212,Information Security Analysts,157220.00,,54.46,113270.00,102600.00
+15-1220,Computer and Information Research Scientists,30840.00,,68.58,142650.00,131490.00
+15-1221,Computer and Information Research Scientists,30840.00,,68.58,142650.00,131490.00
+15-1230,Computer Support Specialists,830510.00,,29.11,60550.00,57910.00
+15-1231,Computer Network Support Specialists,176200.00,,34.30,71350.00,62760.00
+15-1232,Computer User Support Specialists,654310.00,,27.72,57650.00,49770.00
+15-1240,Database and Network Administrators and Architects,621900.00,,49.25,102440.00,98680.00
+15-1241,Computer Network Architects,168830.00,,58.01,120650.00,120520.00
+15-1242,Database Administrators,85870.00,,46.42,96550.00,96710.00
+15-1243,Database Architects,50440.00,,58.58,121840.00,123430.00
+15-1244,Network and Computer Systems Administrators,316760.00,,43.87,91250.00,80600.00
+15-1250,"Software and Web Developers, Programmers, and Testers",1874100.00,,54.68,113720.00,102930.00
+15-1251,Computer Programmers,152610.00,,46.46,96650.00,93000.00
+15-1252,Software Developers,1364180.00,,58.17,120990.00,120730.00
+15-1253,Software Quality Assurance Analysts and Testers,190120.00,,46.97,97710.00,98220.00
+15-1254,Web Developers,84820.00,,39.09,81320.00,77030.00
+15-1255,Web and Digital Interface Designers,82380.00,,45.90,95460.00,79890.00
+15-1290,Miscellaneous Computer Occupations,370190.00,,47.20,98180.00,95270.00
+15-1299,"Computer Occupations, All Other",370190.00,,47.20,98180.00,95270.00
+15-2000,Mathematical Science Occupations,264840.00,,49.90,103800.00,98680.00
+15-2010,Actuaries,23040.00,,60.24,125300.00,105900.00
+15-2011,Actuaries,23040.00,,60.24,125300.00,105900.00
+15-2020,Mathematicians,1770.00,,54.05,112430.00,108100.00
+15-2021,Mathematicians,1770.00,,54.05,112430.00,108100.00
+15-2030,Operations Research Analysts,98700.00,,46.07,95830.00,82360.00
+15-2031,Operations Research Analysts,98700.00,,46.07,95830.00,82360.00
+15-2040,Statisticians,31370.00,,47.81,99450.00,95570.00
+15-2041,Statisticians,31370.00,,47.81,99450.00,95570.00
+15-2050,Data Scientists,105980.00,,52.24,108660.00,100910.00
+15-2051,Data Scientists,105980.00,,52.24,108660.00,100910.00
+15-2090,Miscellaneous Mathematical Science Occupations,3970.00,,37.48,77960.00,62460.00
+15-2099,"Mathematical Science Occupations, All Other",3970.00,,37.48,77960.00,62460.00
+17-0000,Architecture and Engineering Occupations,2436520.00,,44.10,91740.00,79840.00
+17-1000,"Architects, Surveyors, and Cartographers",176840.00,,39.85,82880.00,77670.00
+17-1010,"Architects, Except Naval",117830.00,,42.98,89400.00,79380.00
+17-1011,"Architects, Except Landscape and Naval",100400.00,,44.19,91900.00,80180.00
+17-1012,Landscape Architects,17430.00,,36.05,74980.00,67950.00
+17-1020,"Surveyors, Cartographers, and Photogrammetrists",59000.00,,33.59,69870.00,61950.00
+17-1021,Cartographers and Photogrammetrists,12610.00,,35.34,73510.00,68900.00
+17-1022,Surveyors,46390.00,,33.12,68880.00,61600.00
+17-2000,Engineers,1631080.00,,50.00,104000.00,99040.00
+17-2010,Aerospace Engineers,56640.00,,59.12,122970.00,122270.00
+17-2011,Aerospace Engineers,56640.00,,59.12,122970.00,122270.00
+17-2020,Agricultural Engineers,1120.00,,41.99,87350.00,82640.00
+17-2021,Agricultural Engineers,1120.00,,41.99,87350.00,82640.00
+17-2030,Bioengineers and Biomedical Engineers,17190.00,,48.57,101020.00,97410.00
+17-2031,Bioengineers and Biomedical Engineers,17190.00,,48.57,101020.00,97410.00
+17-2040,Chemical Engineers,24180.00,,58.58,121840.00,105550.00
+17-2041,Chemical Engineers,24180.00,,58.58,121840.00,105550.00
+17-2050,Civil Engineers,304310.00,,45.91,95490.00,88050.00
+17-2051,Civil Engineers,304310.00,,45.91,95490.00,88050.00
+17-2060,Computer Hardware Engineers,73750.00,,65.50,136230.00,128170.00
+17-2061,Computer Hardware Engineers,73750.00,,65.50,136230.00,128170.00
+17-2070,Electrical and Electronics Engineers,293190.00,,53.21,110670.00,101780.00
+17-2071,Electrical Engineers,186020.00,,51.87,107890.00,100420.00
+17-2072,"Electronics Engineers, Except Computer",107170.00,,55.53,115490.00,104820.00
+17-2080,Environmental Engineers,42660.00,,48.18,100220.00,96820.00
+17-2081,Environmental Engineers,42660.00,,48.18,100220.00,96820.00
+17-2110,"Industrial Engineers, Including Health and Safety",316820.00,,45.92,95520.00,95300.00
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",22870.00,,47.93,99700.00,99040.00
+17-2112,Industrial Engineers,293950.00,,45.77,95200.00,95300.00
+17-2120,Marine Engineers and Naval Architects,7380.00,,47.03,97820.00,93370.00
+17-2121,Marine Engineers and Naval Architects,7380.00,,47.03,97820.00,93370.00
+17-2130,Materials Engineers,21530.00,,49.02,101950.00,98300.00
+17-2131,Materials Engineers,21530.00,,49.02,101950.00,98300.00
+17-2140,Mechanical Engineers,278240.00,,46.64,97000.00,95300.00
+17-2141,Mechanical Engineers,278240.00,,46.64,97000.00,95300.00
+17-2150,"Mining and Geological Engineers, Including Mining Safety Engineers",7370.00,,48.29,100450.00,97090.00
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",7370.00,,48.29,100450.00,97090.00
+17-2160,Nuclear Engineers,12670.00,,58.54,121760.00,120380.00
+17-2161,Nuclear Engineers,12670.00,,58.54,121760.00,120380.00
+17-2170,Petroleum Engineers,22100.00,,70.06,145720.00,130850.00
+17-2171,Petroleum Engineers,22100.00,,70.06,145720.00,130850.00
+17-2190,Miscellaneous Engineers,151940.00,,51.83,107800.00,100640.00
+17-2199,"Engineers, All Other",151940.00,,51.83,107800.00,100640.00
+17-3000,"Drafters, Engineering Technicians, and Mapping Technicians",628600.00,,30.01,62420.00,60290.00
+17-3010,Drafters,185200.00,,29.66,61680.00,60290.00
+17-3011,Architectural and Civil Drafters,101310.00,,29.14,60620.00,60340.00
+17-3012,Electrical and Electronics Drafters,20830.00,,32.26,67090.00,61510.00
+17-3013,Mechanical Drafters,47760.00,,30.12,62650.00,60200.00
+17-3019,"Drafters, All Other",15300.00,,28.04,58330.00,54240.00
+17-3020,"Engineering Technologists and Technicians, Except Drafters",387330.00,,31.06,64600.00,60690.00
+17-3021,Aerospace Engineering and Operations Technologists and Technicians,10900.00,,35.34,73510.00,73580.00
+17-3022,Civil Engineering Technologists and Technicians,64170.00,,27.89,58000.00,58320.00
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,101450.00,,33.21,69070.00,63640.00
+17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,11590.00,,30.71,63880.00,60360.00
+17-3025,Environmental Engineering Technologists and Technicians,14910.00,,27.21,56590.00,48390.00
+17-3026,Industrial Engineering Technologists and Technicians,62030.00,,29.44,61230.00,60220.00
+17-3027,Mechanical Engineering Technologists and Technicians,40180.00,,30.47,63390.00,60460.00
+17-3028,Calibration Technologists and Technicians,8500.00,,30.19,62800.00,60340.00
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",73600.00,,32.83,68290.00,61950.00
+17-3030,Surveying and Mapping Technicians,56070.00,,23.95,49810.00,46910.00
+17-3031,Surveying and Mapping Technicians,56070.00,,23.95,49810.00,46910.00
+19-0000,"Life, Physical, and Social Science Occupations",1273640.00,,38.81,80730.00,72740.00
+19-1000,Life Scientists,304980.00,,44.80,93190.00,80140.00
+19-1010,Agricultural and Food Scientists,31920.00,,38.45,79970.00,74160.00
+19-1011,Animal Scientists,2790.00,,38.65,80390.00,65090.00
+19-1012,Food Scientists and Technologists,13510.00,,40.46,84150.00,78340.00
+19-1013,Soil and Plant Scientists,15610.00,,36.68,76290.00,66750.00
+19-1020,Biological Scientists,117460.00,,45.18,93970.00,82680.00
+19-1021,Biochemists and Biophysicists,35050.00,,54.55,113460.00,102270.00
+19-1022,Microbiologists,19430.00,,42.22,87820.00,79260.00
+19-1023,Zoologists and Wildlife Biologists,15930.00,,33.80,70300.00,64650.00
+19-1029,"Biological Scientists, All Other",47050.00,,43.27,90010.00,82530.00
+19-1030,Conservation Scientists and Foresters,32040.00,,32.73,68080.00,63750.00
+19-1031,Conservation Scientists,22550.00,,32.81,68230.00,63750.00
+19-1032,Foresters,9500.00,,32.56,67710.00,64110.00
+19-1040,Medical Scientists,116740.00,,49.44,102830.00,90640.00
+19-1041,Epidemiologists,8180.00,,41.70,86740.00,78830.00
+19-1042,"Medical Scientists, Except Epidemiologists",108550.00,,50.02,104050.00,95310.00
+19-1090,Miscellaneous Life Scientists,6820.00,,45.40,94430.00,81500.00
+19-1099,"Life Scientists, All Other",6820.00,,45.40,94430.00,81500.00
+19-2000,Physical Scientists,244340.00,,46.32,96340.00,82090.00
+19-2010,Astronomers and Physicists,21950.00,,72.36,150510.00,147450.00
+19-2011,Astronomers,1930.00,,67.02,139410.00,128160.00
+19-2012,Physicists,20020.00,,72.88,151580.00,152430.00
+19-2020,Atmospheric and Space Scientists,8520.00,,46.58,96880.00,94570.00
+19-2021,Atmospheric and Space Scientists,8520.00,,46.58,96880.00,94570.00
+19-2030,Chemists and Materials Scientists,87290.00,,43.43,90330.00,79760.00
+19-2031,Chemists,80600.00,,42.85,89130.00,79430.00
+19-2032,Materials Scientists,6690.00,,50.38,104790.00,100090.00
+19-2040,Environmental Scientists and Geoscientists,106910.00,,41.82,86980.00,78340.00
+19-2041,"Environmental Scientists and Specialists, Including Health",76890.00,,39.06,81240.00,76530.00
+19-2042,"Geoscientists, Except Hydrologists and Geographers",23620.00,,49.78,103550.00,83680.00
+19-2043,Hydrologists,6390.00,,45.57,94780.00,84030.00
+19-2090,Miscellaneous Physical Scientists,19680.00,,54.43,113220.00,104100.00
+19-2099,"Physical Scientists, All Other",19680.00,,54.43,113220.00,104100.00
+19-3000,Social Scientists and Related Workers,246680.00,,43.66,90810.00,80890.00
+19-3010,Economists,15640.00,,58.09,120830.00,105630.00
+19-3011,Economists,15640.00,,58.09,120830.00,105630.00
+19-3020,Survey Researchers,8850.00,,31.10,64690.00,59740.00
+19-3022,Survey Researchers,8850.00,,31.10,64690.00,59740.00
+19-3030,Psychologists,129620.00,,44.28,92100.00,81040.00
+19-3032,Industrial-Organizational Psychologists,610.00,,54.48,113320.00,105310.00
+19-3033,Clinical and Counseling Psychologists,58100.00,,47.90,99640.00,82510.00
+19-3034,School Psychologists,57110.00,,39.80,82770.00,78780.00
+19-3039,"Psychologists, All Other",13800.00,,47.12,98010.00,102900.00
+19-3040,Sociologists,2640.00,,46.28,96260.00,92910.00
+19-3041,Sociologists,2640.00,,46.28,96260.00,92910.00
+19-3050,Urban and Regional Planners,38940.00,,39.09,81310.00,78500.00
+19-3051,Urban and Regional Planners,38940.00,,39.09,81310.00,78500.00
+19-3090,Miscellaneous Social Scientists and Related Workers,50990.00,,43.19,89840.00,82390.00
+19-3091,Anthropologists and Archeologists,6650.00,,32.12,66800.00,61910.00
+19-3092,Geographers,1440.00,,41.70,86740.00,85220.00
+19-3093,Historians,2910.00,,34.68,72130.00,63940.00
+19-3094,Political Scientists,5650.00,,57.90,120430.00,122510.00
+19-3099,"Social Scientists and Related Workers, All Other",34330.00,,43.70,90900.00,84430.00
+19-4000,"Life, Physical, and Social Science Technicians",349540.00,,25.91,53890.00,48370.00
+19-4010,Agricultural and Food Science Technicians,25090.00,,22.23,46240.00,44700.00
+19-4012,Agricultural Technicians,13560.00,,21.56,44850.00,40430.00
+19-4013,Food Science Technicians,11530.00,,23.01,47870.00,46590.00
+19-4020,Biological Technicians,76150.00,,24.89,51770.00,48140.00
+19-4021,Biological Technicians,76150.00,,24.89,51770.00,48140.00
+19-4030,Chemical Technicians,57690.00,,26.46,55040.00,48990.00
+19-4031,Chemical Technicians,57690.00,,26.46,55040.00,48990.00
+19-4040,Environmental Science and Geoscience Technicians,46860.00,,25.88,53830.00,47850.00
+19-4042,"Environmental Science and Protection Technicians, Including Health",34110.00,,24.30,50550.00,47370.00
+19-4043,"Geological Technicians, Except Hydrologic Technicians",9210.00,,28.40,59080.00,48310.00
+19-4044,Hydrologic Technicians,3550.00,,34.50,71760.00,62280.00
+19-4050,Nuclear Technicians,5360.00,,45.77,95200.00,99340.00
+19-4051,Nuclear Technicians,5360.00,,45.77,95200.00,99340.00
+19-4060,Social Science Research Assistants,28690.00,,27.13,56430.00,49720.00
+19-4061,Social Science Research Assistants,28690.00,,27.13,56430.00,49720.00
+19-4070,Forest and Conservation Technicians,30440.00,,20.87,43420.00,39290.00
+19-4071,Forest and Conservation Technicians,30440.00,,20.87,43420.00,39290.00
+19-4090,"Miscellaneous Life, Physical, and Social Science Technicians",79250.00,,27.83,57880.00,50370.00
+19-4092,Forensic Science Technicians,17020.00,,32.14,66850.00,61930.00
+19-4099,"Life, Physical, and Social Science Technicians, All Other",62230.00,,26.65,55420.00,49030.00
+19-5000,Occupational Health and Safety Specialists and Technicians,128090.00,,36.13,75150.00,74870.00
+19-5010,Occupational Health and Safety Specialists and Technicians,128090.00,,36.13,75150.00,74870.00
+19-5011,Occupational Health and Safety Specialists,106340.00,,37.86,78740.00,77560.00
+19-5012,Occupational Health and Safety Technicians,21750.00,,27.67,57560.00,51120.00
+21-0000,Community and Social Service Occupations,2239680.00,,25.94,53960.00,48410.00
+21-1000,"Counselors, Social Workers, and Other Community and Social Service Specialists",2157410.00,,25.94,53950.00,48400.00
+21-1010,Counselors,781830.00,,27.12,56410.00,49360.00
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",296370.00,,30.33,63090.00,60510.00
+21-1013,Marriage and Family Therapists,54800.00,,28.69,59660.00,49880.00
+21-1015,Rehabilitation Counselors,90310.00,,21.51,44740.00,38560.00
+21-1018,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",310880.00,,25.72,53490.00,48520.00
+21-1019,"Counselors, All Other",29480.00,,23.91,49730.00,45160.00
+21-1020,Social Workers,677440.00,,27.83,57880.00,50390.00
+21-1021,"Child, Family, and School Social Workers",340050.00,,26.39,54880.00,49150.00
+21-1022,Healthcare Social Workers,173860.00,,29.96,62310.00,60840.00
+21-1023,Mental Health and Substance Abuse Social Workers,113810.00,,27.79,57800.00,49130.00
+21-1029,"Social Workers, All Other",49730.00,,30.29,63010.00,61190.00
+21-1090,Miscellaneous Community and Social Service Specialists,698130.00,,22.78,47380.00,42490.00
+21-1091,Health Education Specialists,55830.00,,31.22,64930.00,60600.00
+21-1092,Probation Officers and Correctional Treatment Specialists,92140.00,,30.43,63290.00,60250.00
+21-1093,Social and Human Service Assistants,398380.00,,19.45,40460.00,37610.00
+21-1094,Community Health Workers,61010.00,,22.97,47780.00,46590.00
+21-1099,"Community and Social Service Specialists, All Other",90770.00,,24.28,50510.00,47390.00
+21-2000,Religious Workers,82280.00,,26.13,54340.00,48560.00
+21-2010,Clergy,50790.00,,27.51,57230.00,49720.00
+21-2011,Clergy,50790.00,,27.51,57230.00,49720.00
+21-2020,"Directors, Religious Activities and Education",21000.00,,25.42,52880.00,46980.00
+21-2021,"Directors, Religious Activities and Education",21000.00,,25.42,52880.00,46980.00
+21-2090,Miscellaneous Religious Workers,10490.00,,20.81,43290.00,37500.00
+21-2099,"Religious Workers, All Other",10490.00,,20.81,43290.00,37500.00
+23-0000,Legal Occupations,1178140.00,,54.38,113100.00,82430.00
+23-1000,"Lawyers, Judges, and Related Workers",744760.00,,69.46,144470.00,127540.00
+23-1010,Lawyers and Judicial Law Clerks,695810.00,,70.30,146220.00,127690.00
+23-1011,Lawyers,681010.00,,71.17,148030.00,127990.00
+23-1012,Judicial Law Clerks,14800.00,,30.16,62730.00,50750.00
+23-1020,"Judges, Magistrates, and Other Judicial Workers",48950.00,,57.54,119690.00,110550.00
+23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",13840.00,,50.08,104160.00,102550.00
+23-1022,"Arbitrators, Mediators, and Conciliators",7320.00,,29.98,62350.00,49410.00
+23-1023,"Judges, Magistrate Judges, and Magistrates",27790.00,,68.52,142520.00,148030.00
+23-2000,Legal Support Workers,433380.00,,28.46,59190.00,54860.00
+23-2010,Paralegals and Legal Assistants,336250.00,,28.04,58330.00,56230.00
+23-2011,Paralegals and Legal Assistants,336250.00,,28.04,58330.00,56230.00
+23-2090,Miscellaneous Legal Support Workers,97130.00,,29.89,62170.00,51550.00
+23-2093,"Title Examiners, Abstractors, and Searchers",51040.00,,25.19,52390.00,47310.00
+23-2099,"Legal Support Workers, All Other",46090.00,,35.10,73000.00,59790.00
+25-0000,Educational Instruction and Library Occupations,8191930.00,,29.88,62140.00,57220.00
+25-1000,Postsecondary Teachers,1340560.00,,*,95200.00,78300.00
+25-1010,"Business Teachers, Postsecondary",79640.00,,*,105720.00,94360.00
+25-1011,"Business Teachers, Postsecondary",79640.00,,*,105720.00,94360.00
+25-1020,"Math and Computer Science Teachers, Postsecondary",81740.00,,*,88730.00,77630.00
+25-1021,"Computer Science Teachers, Postsecondary",37600.00,,*,89610.00,77910.00
+25-1022,"Mathematical Science Teachers, Postsecondary",44140.00,,*,87980.00,77580.00
+25-1030,"Engineering and Architecture Teachers, Postsecondary",41380.00,,*,113150.00,103340.00
+25-1031,"Architecture Teachers, Postsecondary",5950.00,,*,98600.00,95160.00
+25-1032,"Engineering Teachers, Postsecondary",35440.00,,*,115590.00,104940.00
+25-1040,"Life Sciences Teachers, Postsecondary",57440.00,,*,98430.00,81980.00
+25-1041,"Agricultural Sciences Teachers, Postsecondary",8570.00,,*,97520.00,95910.00
+25-1042,"Biological Science Teachers, Postsecondary",47690.00,,*,98710.00,81440.00
+25-1043,"Forestry and Conservation Science Teachers, Postsecondary",1180.00,,*,93510.00,82330.00
+25-1050,"Physical Sciences Teachers, Postsecondary",48420.00,,*,97110.00,81980.00
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",10250.00,,*,102840.00,98070.00
+25-1052,"Chemistry Teachers, Postsecondary",20260.00,,*,94060.00,79410.00
+25-1053,"Environmental Science Teachers, Postsecondary",5440.00,,*,92210.00,81980.00
+25-1054,"Physics Teachers, Postsecondary",12460.00,,*,99480.00,93070.00
+25-1060,"Social Sciences Teachers, Postsecondary",108100.00,,*,94340.00,79770.00
+25-1061,"Anthropology and Archeology Teachers, Postsecondary",5010.00,,*,102110.00,97340.00
+25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",9040.00,,*,91680.00,78910.00
+25-1063,"Economics Teachers, Postsecondary",11790.00,,*,124090.00,104940.00
+25-1064,"Geography Teachers, Postsecondary",3440.00,,*,88150.00,81440.00
+25-1065,"Political Science Teachers, Postsecondary",14060.00,,*,98980.00,81980.00
+25-1066,"Psychology Teachers, Postsecondary",36060.00,,*,88390.00,77860.00
+25-1067,"Sociology Teachers, Postsecondary",12550.00,,*,87850.00,77980.00
+25-1069,"Social Sciences Teachers, Postsecondary, All Other",16140.00,,*,87320.00,77500.00
+25-1070,"Health Teachers, Postsecondary",259890.00,,*,119880.00,98070.00
+25-1071,"Health Specialties Teachers, Postsecondary",191830.00,,*,133310.00,102720.00
+25-1072,"Nursing Instructors and Teachers, Postsecondary",68060.00,,*,82040.00,77440.00
+25-1080,"Education and Library Science Teachers, Postsecondary",63100.00,,*,77260.00,64540.00
+25-1081,"Education Teachers, Postsecondary",58780.00,,*,76990.00,63910.00
+25-1082,"Library Science Teachers, Postsecondary",4330.00,,*,80850.00,77100.00
+25-1110,"Law, Criminal Justice, and Social Work Teachers, Postsecondary",40170.00,,*,97720.00,78330.00
+25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",13790.00,,*,81730.00,64600.00
+25-1112,"Law Teachers, Postsecondary",14110.00,,*,130820.00,123470.00
+25-1113,"Social Work Teachers, Postsecondary",12280.00,,*,77650.00,71010.00
+25-1120,"Arts, Communications, History, and Humanities Teachers, Postsecondary",239610.00,,*,85110.00,76840.00
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",94720.00,,*,86240.00,75940.00
+25-1122,"Communications Teachers, Postsecondary",27330.00,,*,84580.00,77560.00
+25-1123,"English Language and Literature Teachers, Postsecondary",58480.00,,*,82680.00,75930.00
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",19640.00,,*,82990.00,77030.00
+25-1125,"History Teachers, Postsecondary",18590.00,,*,86460.00,78130.00
+25-1126,"Philosophy and Religion Teachers, Postsecondary",20850.00,,*,88260.00,77610.00
+25-1190,Miscellaneous Postsecondary Teachers,321050.00,,*,82100.00,64640.00
+25-1192,"Family and Consumer Sciences Teachers, Postsecondary",2730.00,,*,93230.00,79630.00
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",13860.00,,*,79080.00,72440.00
+25-1194,"Career/Technical Education Teachers, Postsecondary",105440.00,,30.35,63130.00,59840.00
+25-1199,"Postsecondary Teachers, All Other",199020.00,,*,92200.00,78160.00
+25-2000,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",4021070.00,,*,64870.00,61030.00
+25-2010,Preschool and Kindergarten Teachers,512400.00,,20.70,43060.00,36710.00
+25-2011,"Preschool Teachers, Except Special Education",391670.00,,17.53,36460.00,30210.00
+25-2012,"Kindergarten Teachers, Except Special Education",120730.00,,*,64490.00,60900.00
+25-2020,Elementary and Middle School Teachers,1933120.00,,*,67030.00,61390.00
+25-2021,"Elementary School Teachers, Except Special Education",1329280.00,,*,67080.00,61400.00
+25-2022,"Middle School Teachers, Except Special and Career/Technical Education",592000.00,,*,66880.00,61320.00
+25-2023,"Career/Technical Education Teachers, Middle School",11840.00,,*,69410.00,61820.00
+25-2030,Secondary School Teachers,1104600.00,,*,69490.00,61820.00
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",1020240.00,,*,69530.00,61820.00
+25-2032,"Career/Technical Education Teachers, Secondary School",84360.00,,*,68960.00,61820.00
+25-2050,Special Education Teachers,470960.00,,*,68880.00,61820.00
+25-2051,"Special Education Teachers, Preschool",21130.00,,*,71970.00,62420.00
+25-2052,"Special Education Teachers, Kindergarten and Elementary School",187070.00,,*,67090.00,61640.00
+25-2057,"Special Education Teachers, Middle School",79070.00,,*,68860.00,61820.00
+25-2058,"Special Education Teachers, Secondary School",145690.00,,*,70100.00,62120.00
+25-2059,"Special Education Teachers, All Other",38000.00,,*,71330.00,61720.00
+25-3000,Other Teachers and Instructors,941530.00,,22.35,46490.00,37310.00
+25-3010,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",38260.00,,29.16,60650.00,59720.00
+25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",38260.00,,29.16,60650.00,59720.00
+25-3020,Self-Enrichment Teachers,216910.00,,23.67,49230.00,43580.00
+25-3021,Self-Enrichment Teachers,216910.00,,23.67,49230.00,43580.00
+25-3030,"Substitute Teachers, Short-Term",374620.00,,18.47,38410.00,30100.00
+25-3031,"Substitute Teachers, Short-Term",374620.00,,18.47,38410.00,30100.00
+25-3040,Tutors,147100.00,,20.09,41780.00,36470.00
+25-3041,Tutors,147100.00,,20.09,41780.00,36470.00
+25-3090,Miscellaneous Teachers and Instructors,164650.00,,*,62200.00,50540.00
+25-3099,"Teachers and Instructors, All Other",164650.00,,*,62200.00,50540.00
+25-4000,"Librarians, Curators, and Archivists",228900.00,,26.69,55520.00,49060.00
+25-4010,"Archivists, Curators, and Museum Technicians",28110.00,,28.28,58830.00,50120.00
+25-4011,Archivists,6120.00,,29.75,61880.00,60050.00
+25-4012,Curators,11030.00,,30.71,63880.00,60110.00
+25-4013,Museum Technicians and Conservators,10960.00,,25.02,52030.00,47630.00
+25-4020,Librarians and Media Collections Specialists,127790.00,,30.86,64180.00,61190.00
+25-4022,Librarians and Media Collections Specialists,127790.00,,30.86,64180.00,61190.00
+25-4030,Library Technicians,73000.00,,18.79,39070.00,36970.00
+25-4031,Library Technicians,73000.00,,18.79,39070.00,36970.00
+25-9000,Other Educational Instruction and Library Occupations,1659870.00,,*,38620.00,30460.00
+25-9020,Farm and Home Management Educators,10620.00,,27.90,58040.00,49990.00
+25-9021,Farm and Home Management Educators,10620.00,,27.90,58040.00,49990.00
+25-9030,Instructional Coordinators,184740.00,,33.92,70560.00,63740.00
+25-9031,Instructional Coordinators,184740.00,,33.92,70560.00,63740.00
+25-9040,Teaching Assistants,1308560.00,,*,32640.00,29550.00
+25-9044,"Teaching Assistants, Postsecondary",121290.00,,*,41170.00,38040.00
+25-9045,"Teaching Assistants, Except Postsecondary",1187270.00,,*,31760.00,29360.00
+25-9090,Miscellaneous Educational Instruction and Library Workers,155950.00,,23.87,49650.00,46300.00
+25-9099,"Educational Instruction and Library Workers, All Other",155950.00,,23.87,49650.00,46300.00
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",1815290.00,,31.78,66100.00,51190.00
+27-1000,Art and Design Workers,609150.00,,28.32,58910.00,48220.00
+27-1010,Artists and Related Workers,83070.00,,45.83,95330.00,80990.00
+27-1011,Art Directors,42080.00,,55.50,115430.00,100890.00
+27-1012,Craft Artists,3740.00,,19.58,40730.00,35930.00
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",9430.00,,33.18,69010.00,60820.00
+27-1014,Special Effects Artists and Animators,20430.00,,41.45,86220.00,78790.00
+27-1019,"Artists and Related Workers, All Other",7390.00,,32.33,67240.00,61580.00
+27-1020,Designers,526080.00,,25.56,53160.00,46370.00
+27-1021,Commercial and Industrial Designers,27940.00,,38.31,79680.00,77030.00
+27-1022,Fashion Designers,19310.00,,40.22,83650.00,77450.00
+27-1023,Floral Designers,36000.00,,15.43,32100.00,29880.00
+27-1024,Graphic Designers,204040.00,,28.83,59970.00,50710.00
+27-1025,Interior Designers,61970.00,,30.08,62570.00,60340.00
+27-1026,Merchandise Displayers and Window Trimmers,159790.00,,17.08,35520.00,32060.00
+27-1027,Set and Exhibit Designers,6850.00,,30.27,62960.00,54860.00
+27-1029,"Designers, All Other",10190.00,,35.33,73480.00,62310.00
+27-2000,"Entertainers and Performers, Sports and Related Workers",438600.00,,34.55,71870.00,49470.00
+27-2010,"Actors, Producers, and Directors",168350.00,,45.85,95360.00,77080.00
+27-2011,Actors,30100.00,,31.31,*,*
+27-2012,Producers and Directors,138250.00,,49.01,101950.00,79000.00
+27-2020,"Athletes, Coaches, Umpires, and Related Workers",215690.00,,*,54390.00,39290.00
+27-2021,Athletes and Sports Competitors,12320.00,,*,116930.00,77300.00
+27-2022,Coaches and Scouts,193740.00,,*,50550.00,38970.00
+27-2023,"Umpires, Referees, and Other Sports Officials",9620.00,,*,51710.00,35860.00
+27-2030,Dancers and Choreographers,7850.00,,24.17,50280.00,40500.00
+27-2031,Dancers,3850.00,,24.49,*,*
+27-2032,Choreographers,3990.00,,23.86,49630.00,42700.00
+27-2040,"Musicians, Singers, and Related Workers",33640.00,,38.57,*,*
+27-2041,Music Directors and Composers,9560.00,,31.29,65080.00,49130.00
+27-2042,Musicians and Singers,24080.00,,41.46,*,*
+27-2090,"Miscellaneous Entertainers and Performers, Sports and Related Workers",13070.00,,23.60,*,*
+27-2091,"Disc Jockeys, Except Radio",4770.00,,21.82,*,*
+27-2099,"Entertainers and Performers, Sports and Related Workers, All Other",8300.00,,24.62,*,*
+27-3000,Media and Communication Workers,573200.00,,34.50,71760.00,62340.00
+27-3010,Broadcast Announcers and Radio Disc Jockeys,24580.00,,26.97,56110.00,37630.00
+27-3011,Broadcast Announcers and Radio Disc Jockeys,24580.00,,26.97,56110.00,37630.00
+27-3020,"News Analysts, Reporters and Journalists",39080.00,,30.40,63230.00,48370.00
+27-3023,"News Analysts, Reporters, and Journalists",39080.00,,30.40,63230.00,48370.00
+27-3030,Public Relations Specialists,242710.00,,35.22,73250.00,62800.00
+27-3031,Public Relations Specialists,242710.00,,35.22,73250.00,62800.00
+27-3040,Writers and Editors,185810.00,,37.96,78950.00,71640.00
+27-3041,Editors,88780.00,,36.73,76400.00,63350.00
+27-3042,Technical Writers,47620.00,,39.17,81470.00,78060.00
+27-3043,Writers and Authors,49410.00,,39.00,81120.00,69510.00
+27-3090,Miscellaneous Media and Communication Workers,81010.00,,28.68,59650.00,49980.00
+27-3091,Interpreters and Translators,52170.00,,28.08,58400.00,49110.00
+27-3092,Court Reporters and Simultaneous Captioners,12300.00,,31.36,65240.00,60380.00
+27-3099,"Media and Communication Workers, All Other",16540.00,,28.56,59400.00,49900.00
+27-4000,Media and Communication Equipment Workers,194350.00,,28.35,58970.00,48920.00
+27-4010,"Broadcast, Sound, and Lighting Technicians",90940.00,,26.80,55750.00,48790.00
+27-4011,Audio and Video Technicians,50590.00,,26.59,55310.00,48820.00
+27-4012,Broadcast Technicians,25270.00,,24.66,51280.00,44740.00
+27-4014,Sound Engineering Technicians,10800.00,,32.38,67360.00,60500.00
+27-4015,Lighting Technicians,4280.00,,27.89,58020.00,51470.00
+27-4020,Photographers,38420.00,,23.18,48210.00,38950.00
+27-4021,Photographers,38420.00,,23.18,48210.00,38950.00
+27-4030,"Television, Video, and Film Camera Operators and Editors",48320.00,,33.66,70020.00,60360.00
+27-4031,"Camera Operators, Television, Video, and Film",20280.00,,29.69,61740.00,49230.00
+27-4032,Film and Video Editors,28030.00,,36.54,76000.00,62680.00
+27-4090,Miscellaneous Media and Communication Equipment Workers,16670.00,,33.31,69290.00,63250.00
+27-4099,"Media and Communication Equipment Workers, All Other",16670.00,,33.31,69290.00,63250.00
+29-0000,Healthcare Practitioners and Technical Occupations,8787730.00,,43.80,91100.00,75040.00
+29-1000,Healthcare Diagnosing or Treating Practitioners,5772460.00,,53.92,112160.00,81270.00
+29-1010,Chiropractors,35810.00,,39.06,81240.00,75000.00
+29-1011,Chiropractors,35810.00,,39.06,81240.00,75000.00
+29-1020,Dentists,124680.00,,85.47,177770.00,163220.00
+29-1021,"Dentists, General",108680.00,,80.37,167160.00,160370.00
+29-1022,Oral and Maxillofacial Surgeons,5330.00,,149.74,311460.00,#
+29-1023,Orthodontists,5140.00,,128.50,267280.00,#
+29-1024,Prosthodontists,790.00,,69.10,143730.00,100950.00
+29-1029,"Dentists, All Other Specialists",4750.00,,86.25,179400.00,175160.00
+29-1030,Dietitians and Nutritionists,66690.00,,31.55,65620.00,61650.00
+29-1031,Dietitians and Nutritionists,66690.00,,31.55,65620.00,61650.00
+29-1040,Optometrists,38720.00,,60.31,125440.00,124300.00
+29-1041,Optometrists,38720.00,,60.31,125440.00,124300.00
+29-1050,Pharmacists,312550.00,,60.43,125690.00,128570.00
+29-1051,Pharmacists,312550.00,,60.43,125690.00,128570.00
+29-1070,Physician Assistants,132940.00,,57.43,119460.00,121530.00
+29-1071,Physician Assistants,132940.00,,57.43,119460.00,121530.00
+29-1080,Podiatrists,8840.00,,76.15,158380.00,145840.00
+29-1081,Podiatrists,8840.00,,76.15,158380.00,145840.00
+29-1120,Therapists,687440.00,,40.42,84080.00,78670.00
+29-1122,Occupational Therapists,127830.00,,43.02,89470.00,85570.00
+29-1123,Physical Therapists,225350.00,,44.67,92920.00,95620.00
+29-1124,Radiation Therapists,16050.00,,45.19,94000.00,82790.00
+29-1125,Recreational Therapists,16980.00,,25.91,53900.00,47940.00
+29-1126,Respiratory Therapists,133410.00,,32.78,68190.00,61830.00
+29-1127,Speech-Language Pathologists,147470.00,,41.26,85820.00,79060.00
+29-1128,Exercise Physiologists,6860.00,,25.98,54030.00,47940.00
+29-1129,"Therapists, All Other",13490.00,,31.26,65030.00,59500.00
+29-1130,Veterinarians,77260.00,,52.84,109920.00,100370.00
+29-1131,Veterinarians,77260.00,,52.84,109920.00,100370.00
+29-1140,Registered Nurses,3047530.00,,39.78,82750.00,77600.00
+29-1141,Registered Nurses,3047530.00,,39.78,82750.00,77600.00
+29-1150,Nurse Anesthetists,43950.00,,97.34,202470.00,195610.00
+29-1151,Nurse Anesthetists,43950.00,,97.34,202470.00,195610.00
+29-1160,Nurse Midwives,7750.00,,54.91,114210.00,112830.00
+29-1161,Nurse Midwives,7750.00,,54.91,114210.00,112830.00
+29-1170,Nurse Practitioners,234690.00,,56.75,118040.00,120680.00
+29-1171,Nurse Practitioners,234690.00,,56.75,118040.00,120680.00
+29-1180,Audiologists,13240.00,,41.37,86050.00,78950.00
+29-1181,Audiologists,13240.00,,41.37,86050.00,78950.00
+29-1210,Physicians,641380.00,,121.38,252480.00,#
+29-1211,Anesthesiologists,31130.00,,159.22,331190.00,#
+29-1212,Cardiologists,18610.00,,170.18,353970.00,#
+29-1213,Dermatologists,9230.00,,145.55,302740.00,#
+29-1214,Emergency Medicine Physicians,36180.00,,149.35,310640.00,#
+29-1215,Family Medicine Physicians,102930.00,,113.43,235930.00,#
+29-1216,General Internal Medicine Physicians,58260.00,,116.44,242190.00,#
+29-1217,Neurologists,7120.00,,128.68,267660.00,#
+29-1218,Obstetricians and Gynecologists,21570.00,,142.41,296210.00,#
+29-1221,"Pediatricians, General",33620.00,,95.40,198420.00,170480.00
+29-1222,"Physicians, Pathologists",11010.00,,128.45,267180.00,#
+29-1223,Psychiatrists,25520.00,,120.08,249760.00,#
+29-1224,Radiologists,29530.00,,145.06,301720.00,#
+29-1229,"Physicians, All Other",256670.00,,111.30,231500.00,#
+29-1240,Surgeons,58280.00,,141.60,294520.00,#
+29-1241,"Ophthalmologists, Except Pediatric",11610.00,,129.85,270090.00,#
+29-1242,"Orthopedic Surgeons, Except Pediatric",16260.00,,147.22,306220.00,#
+29-1243,Pediatric Surgeons,820.00,,139.57,290310.00,#
+29-1249,"Surgeons, All Other",29590.00,,143.17,297800.00,#
+29-1290,Miscellaneous Healthcare Diagnosing or Treating Practitioners,240690.00,,40.65,84550.00,77900.00
+29-1291,Acupuncturists,7250.00,,34.51,71770.00,60570.00
+29-1292,Dental Hygienists,207190.00,,39.12,81360.00,77810.00
+29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",26250.00,,54.44,113230.00,100300.00
+29-2000,Health Technologists and Technicians,2887210.00,,24.18,50300.00,46910.00
+29-2010,Clinical Laboratory Technologists and Technicians,318780.00,,27.36,56910.00,57800.00
+29-2010,Clinical Laboratory Technologists and Technicians,318780.00,,27.36,56910.00,57800.00
+29-2030,Diagnostic Related Technologists and Technicians,408390.00,,34.03,70780.00,67100.00
+29-2031,Cardiovascular Technologists and Technicians,55760.00,,29.82,62020.00,60570.00
+29-2032,Diagnostic Medical Sonographers,78640.00,,38.79,80680.00,77740.00
+29-2033,Nuclear Medicine Technologists,17140.00,,40.79,84850.00,78760.00
+29-2034,Radiologic Technologists and Technicians,216380.00,,31.97,66490.00,61370.00
+29-2035,Magnetic Resonance Imaging Technologists,38070.00,,37.41,77820.00,77360.00
+29-2036,Medical Dosimetrists,2400.00,,59.98,124750.00,127270.00
+29-2040,Emergency Medical Technicians and Paramedics,257910.00,,19.94,41480.00,36930.00
+29-2042,Emergency Medical Technicians,161400.00,,17.64,36690.00,35470.00
+29-2043,Paramedics,96510.00,,23.80,49500.00,46770.00
+29-2050,Health Practitioner Support Technologists and Technicians,845080.00,,19.31,40170.00,36980.00
+29-2051,Dietetic Technicians,21610.00,,16.42,34160.00,29520.00
+29-2052,Pharmacy Technicians,436630.00,,18.25,37970.00,36740.00
+29-2053,Psychiatric Technicians,93410.00,,18.27,38000.00,36570.00
+29-2055,Surgical Technologists,109060.00,,25.77,53590.00,48530.00
+29-2056,Veterinary Technologists and Technicians,118670.00,,18.39,38250.00,36850.00
+29-2057,Ophthalmic Medical Technicians,65700.00,,19.77,41120.00,37180.00
+29-2060,Licensed Practical and Licensed Vocational Nurses,641240.00,,24.93,51850.00,48070.00
+29-2061,Licensed Practical and Licensed Vocational Nurses,641240.00,,24.93,51850.00,48070.00
+29-2070,Medical Records Specialists,180570.00,,23.23,48310.00,46660.00
+29-2072,Medical Records Specialists,180570.00,,23.23,48310.00,46660.00
+29-2080,"Opticians, Dispensing",73270.00,,20.70,43060.00,37570.00
+29-2081,"Opticians, Dispensing",73270.00,,20.70,43060.00,37570.00
+29-2090,Miscellaneous Health Technologists and Technicians,161980.00,,24.96,51910.00,46640.00
+29-2091,Orthotists and Prosthetists,10410.00,,38.38,79820.00,75440.00
+29-2092,Hearing Aid Specialists,10790.00,,28.83,59960.00,59500.00
+29-2099,"Health Technologists and Technicians, All Other",140770.00,,23.67,49230.00,45720.00
+29-9000,Other Healthcare Practitioners and Technical Occupations,128060.00,,29.55,61470.00,54480.00
+29-9020,Health Information Technologists and Medical Registrars,37900.00,,29.53,61410.00,55560.00
+29-9021,Health Information Technologists and Medical Registrars,37900.00,,29.53,61410.00,55560.00
+29-9090,Miscellaneous Health Practitioners and Technical Workers,90160.00,,29.56,61490.00,54010.00
+29-9091,Athletic Trainers,26070.00,,*,54650.00,48420.00
+29-9092,Genetic Counselors,2740.00,,41.65,86640.00,80150.00
+29-9093,Surgical Assistants,17250.00,,28.45,59170.00,48320.00
+29-9099,"Healthcare Practitioners and Technical Workers, All Other",44100.00,,31.19,64880.00,58750.00
+31-0000,Healthcare Support Occupations,6603680.00,,16.02,33330.00,29880.00
+31-1100,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",4765620.00,,14.64,30440.00,29620.00
+31-1120,Home Health and Personal Care Aides,3366480.00,,14.07,29260.00,29430.00
+31-1120,Home Health and Personal Care Aides,3366480.00,,14.07,29260.00,29430.00
+31-1130,"Nursing Assistants, Orderlies, and Psychiatric Aides",1399130.00,,16.01,33290.00,30290.00
+31-1131,Nursing Assistants,1314830.00,,15.99,33250.00,30310.00
+31-1132,Orderlies,45160.00,,16.08,33440.00,29990.00
+31-1133,Psychiatric Aides,39140.00,,16.65,34640.00,30260.00
+31-2000,Occupational Therapy and Physical Therapist Assistants and Aides,181410.00,,25.91,53900.00,57980.00
+31-2010,Occupational Therapy Assistants and Aides,45350.00,,29.69,61760.00,61520.00
+31-2011,Occupational Therapy Assistants,41980.00,,30.56,63560.00,61730.00
+31-2012,Occupational Therapy Aides,3370.00,,18.86,39230.00,33560.00
+31-2020,Physical Therapist Assistants and Aides,136050.00,,24.65,51280.00,49180.00
+31-2021,Physical Therapist Assistants,93660.00,,29.20,60740.00,61180.00
+31-2022,Physical Therapist Aides,42390.00,,14.60,30370.00,29200.00
+31-9000,Other Healthcare Support Occupations,1656660.00,,18.93,39360.00,37370.00
+31-9010,Massage Therapists,81030.00,,23.68,49260.00,46910.00
+31-9011,Massage Therapists,81030.00,,23.68,49260.00,46910.00
+31-9090,Miscellaneous Healthcare Support Occupations,1575620.00,,18.68,38860.00,37310.00
+31-9091,Dental Assistants,347170.00,,20.44,42510.00,38660.00
+31-9092,Medical Assistants,727760.00,,18.36,38190.00,37190.00
+31-9093,Medical Equipment Preparers,61170.00,,20.40,42420.00,38220.00
+31-9094,Medical Transcriptionists,55830.00,,16.45,34220.00,30100.00
+31-9095,Pharmacy Aides,43560.00,,16.61,34560.00,29930.00
+31-9096,Veterinary Assistants and Laboratory Animal Caretakers,98970.00,,15.28,31780.00,29780.00
+31-9097,Phlebotomists,132750.00,,18.49,38450.00,37380.00
+31-9099,"Healthcare Support Workers, All Other",108410.00,,19.56,40690.00,37740.00
+33-0000,Protective Service Occupations,3385030.00,,25.68,53420.00,46590.00
+33-1000,Supervisors of Protective Service Workers,342810.00,,38.95,81010.00,77290.00
+33-1010,First-Line Supervisors of Law Enforcement Workers,182700.00,,43.32,90110.00,81430.00
+33-1011,First-Line Supervisors of Correctional Officers,54470.00,,33.53,69750.00,62220.00
+33-1012,First-Line Supervisors of Police and Detectives,128230.00,,47.48,98760.00,99330.00
+33-1020,First-Line Supervisors of Firefighting and Prevention Workers,80890.00,,40.03,83270.00,78230.00
+33-1021,First-Line Supervisors of Firefighting and Prevention Workers,80890.00,,40.03,83270.00,78230.00
+33-1090,"Miscellaneous First-Line Supervisors, Protective Service Workers",79230.00,,27.75,57730.00,52480.00
+33-1091,First-Line Supervisors of Security Workers,55450.00,,26.48,55080.00,50240.00
+33-1099,"First-Line Supervisors of Protective Service Workers, All Other",23780.00,,30.73,63910.00,61010.00
+33-2000,Firefighting and Prevention Workers,334670.00,,26.88,55910.00,50930.00
+33-2010,Firefighters,317310.00,,26.58,55290.00,50700.00
+33-2011,Firefighters,317310.00,,26.58,55290.00,50700.00
+33-2020,Fire Inspectors,17370.00,,32.32,67230.00,63080.00
+33-2021,Fire Inspectors and Investigators,14600.00,,33.50,69680.00,64600.00
+33-2022,Forest Fire Inspectors and Prevention Specialists,2770.00,,26.12,54340.00,42600.00
+33-3000,Law Enforcement Workers,1200060.00,,31.91,66370.00,61190.00
+33-3010,"Bailiffs, Correctional Officers, and Jailers",409020.00,,25.66,53380.00,47920.00
+33-3011,Bailiffs,16420.00,,25.16,52340.00,48320.00
+33-3012,Correctional Officers and Jailers,392600.00,,25.69,53420.00,47920.00
+33-3020,Detectives and Criminal Investigators,107890.00,,43.45,90370.00,83640.00
+33-3021,Detectives and Criminal Investigators,107890.00,,43.45,90370.00,83640.00
+33-3030,Fish and Game Wardens,6730.00,,27.98,58190.00,60730.00
+33-3031,Fish and Game Wardens,6730.00,,27.98,58190.00,60730.00
+33-3040,Parking Enforcement Workers,7450.00,,22.14,46050.00,46590.00
+33-3041,Parking Enforcement Workers,7450.00,,22.14,46050.00,46590.00
+33-3050,Police Officers,668970.00,,34.01,70740.00,64610.00
+33-3051,Police and Sheriff's Patrol Officers,665380.00,,34.02,70750.00,64610.00
+33-3052,Transit and Railroad Police,3590.00,,33.45,69570.00,64930.00
+33-9000,Other Protective Service Workers,1507480.00,,17.44,36280.00,31550.00
+33-9010,Animal Control Workers,11600.00,,20.49,42620.00,39160.00
+33-9011,Animal Control Workers,11600.00,,20.49,42620.00,39160.00
+33-9020,Private Detectives and Investigators,28860.00,,29.31,60970.00,59380.00
+33-9021,Private Detectives and Investigators,28860.00,,29.31,60970.00,59380.00
+33-9030,Security Guards and Gambling Surveillance Officers,1066280.00,,17.24,35860.00,31470.00
+33-9031,Gambling Surveillance Officers and Gambling Investigators,9190.00,,18.31,38080.00,35450.00
+33-9032,Security Guards,1057100.00,,17.23,35830.00,31470.00
+33-9090,Miscellaneous Protective Service Workers,400740.00,,17.04,35450.00,31430.00
+33-9091,Crossing Guards and Flaggers,82690.00,,17.15,35670.00,31450.00
+33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",114320.00,,13.14,27320.00,25630.00
+33-9093,Transportation Security Screeners,48320.00,,22.30,46380.00,45470.00
+33-9094,School Bus Monitors,55310.00,,14.53,30220.00,29100.00
+33-9099,"Protective Service Workers, All Other",100110.00,,20.27,42160.00,38210.00
+35-0000,Food Preparation and Serving Related Occupations,11201480.00,,14.16,29450.00,28400.00
+35-1000,Supervisors of Food Preparation and Serving Workers,1170410.00,,19.77,41130.00,37130.00
+35-1010,Supervisors of Food Preparation and Serving Workers,1170410.00,,19.77,41130.00,37130.00
+35-1011,Chefs and Head Cooks,129810.00,,27.37,56920.00,50160.00
+35-1012,First-Line Supervisors of Food Preparation and Serving Workers,1040600.00,,18.82,39150.00,36570.00
+35-2000,Cooks and Food Preparation Workers,3281610.00,,14.13,29380.00,29100.00
+35-2010,Cooks,2498260.00,,14.21,29560.00,29120.00
+35-2011,"Cooks, Fast Food",768130.00,,12.25,25490.00,24180.00
+35-2012,"Cooks, Institution and Cafeteria",392860.00,,15.15,31520.00,29910.00
+35-2013,"Cooks, Private Household",440.00,,20.80,43260.00,42920.00
+35-2014,"Cooks, Restaurant",1193860.00,,15.21,31630.00,30010.00
+35-2015,"Cooks, Short Order",124800.00,,13.51,28110.00,28560.00
+35-2019,"Cooks, All Other",18170.00,,16.05,33390.00,30720.00
+35-2020,Food Preparation Workers,783350.00,,13.85,28810.00,28780.00
+35-2021,Food Preparation Workers,783350.00,,13.85,28810.00,28780.00
+35-3000,Food and Beverage Serving Workers,5627500.00,,13.23,27520.00,26000.00
+35-3010,Bartenders,485330.00,,14.59,30340.00,26350.00
+35-3011,Bartenders,485330.00,,14.59,30340.00,26350.00
+35-3020,Fast Food and Counter Workers,3095120.00,,12.53,26060.00,25100.00
+35-3023,Fast Food and Counter Workers,3095120.00,,12.53,26060.00,25100.00
+35-3030,Waiters and Waitresses,1804030.00,,13.95,29010.00,26000.00
+35-3031,Waiters and Waitresses,1804030.00,,13.95,29010.00,26000.00
+35-3040,"Food Servers, Nonrestaurant",243030.00,,14.19,29500.00,28730.00
+35-3041,"Food Servers, Nonrestaurant",243030.00,,14.19,29500.00,28730.00
+35-9000,Other Food Preparation and Serving Related Workers,1121960.00,,13.06,27170.00,27400.00
+35-9010,Dining Room and Cafeteria Attendants and Bartender Helpers,336970.00,,13.31,27690.00,27170.00
+35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,336970.00,,13.31,27690.00,27170.00
+35-9020,Dishwashers,377040.00,,13.15,27350.00,28130.00
+35-9021,Dishwashers,377040.00,,13.15,27350.00,28130.00
+35-9030,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",324690.00,,12.50,26000.00,24600.00
+35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",324690.00,,12.50,26000.00,24600.00
+35-9090,Miscellaneous Food Preparation and Serving Related Workers,83240.00,,13.83,28760.00,29120.00
+35-9099,"Food Preparation and Serving Related Workers, All Other",83240.00,,13.83,28760.00,29120.00
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,4108810.00,,16.23,33750.00,30240.00
+37-1000,Supervisors of Building and Grounds Cleaning and Maintenance Workers,270020.00,,23.38,48620.00,46640.00
+37-1010,First-Line Supervisors of Building and Grounds Cleaning and Maintenance Workers,270020.00,,23.38,48620.00,46640.00
+37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,153640.00,,21.68,45100.00,39630.00
+37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",116380.00,,25.61,53270.00,48800.00
+37-2000,Building Cleaning and Pest Control Workers,2862840.00,,15.19,31590.00,29640.00
+37-2010,Building Cleaning Workers,2777470.00,,15.05,31310.00,29540.00
+37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2036680.00,,15.32,31860.00,29760.00
+37-2012,Maids and Housekeeping Cleaners,723430.00,,14.22,29580.00,28780.00
+37-2019,"Building Cleaning Workers, All Other",17350.00,,18.52,38530.00,34350.00
+37-2020,Pest Control Workers,85370.00,,19.54,40640.00,37540.00
+37-2021,Pest Control Workers,85370.00,,19.54,40640.00,37540.00
+37-3000,Grounds Maintenance Workers,975950.00,,17.29,35960.00,35460.00
+37-3010,Grounds Maintenance Workers,975950.00,,17.29,35960.00,35460.00
+37-3011,Landscaping and Groundskeeping Workers,892450.00,,16.94,35240.00,34430.00
+37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",25820.00,,19.47,40500.00,38270.00
+37-3013,Tree Trimmers and Pruners,41920.00,,22.81,47450.00,46970.00
+37-3019,"Grounds Maintenance Workers, All Other",15770.00,,18.81,39120.00,36540.00
+39-0000,Personal Care and Service Occupations,2566440.00,,16.17,33620.00,29450.00
+39-1000,Supervisors of Personal Care and Service Workers,187400.00,,22.57,46950.00,45070.00
+39-1010,First-Line Supervisors of Entertainment and Recreation Workers,86370.00,,23.25,48370.00,47040.00
+39-1013,First-Line Supervisors of Gambling Services Workers,19510.00,,25.28,52590.00,49140.00
+39-1014,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",66860.00,,22.66,47130.00,44870.00
+39-1020,First-Line Supervisors of Personal Service Workers,101030.00,,21.99,45730.00,40390.00
+39-1022,First-Line Supervisors of Personal Service Workers,101030.00,,21.99,45730.00,40390.00
+39-2000,Animal Care and Service Workers,241520.00,,14.47,30100.00,28730.00
+39-2010,Animal Trainers,15840.00,,18.38,38230.00,31280.00
+39-2011,Animal Trainers,15840.00,,18.38,38230.00,31280.00
+39-2020,Animal Caretakers,225680.00,,14.19,29520.00,28600.00
+39-2021,Animal Caretakers,225680.00,,14.19,29520.00,28600.00
+39-3000,Entertainment Attendants and Related Workers,418960.00,,13.06,27170.00,24960.00
+39-3010,Gambling Services Workers,82860.00,,14.11,29340.00,25630.00
+39-3011,Gambling Dealers,64700.00,,13.92,28960.00,24960.00
+39-3012,Gambling and Sports Book Writers and Runners,7340.00,,14.00,29110.00,27530.00
+39-3019,"Gambling Service Workers, All Other",10820.00,,15.28,31790.00,28990.00
+39-3020,Motion Picture Projectionists,1620.00,,15.85,32970.00,29350.00
+39-3021,Motion Picture Projectionists,1620.00,,15.85,32970.00,29350.00
+39-3030,"Ushers, Lobby Attendants, and Ticket Takers",54970.00,,12.69,26390.00,24440.00
+39-3031,"Ushers, Lobby Attendants, and Ticket Takers",54970.00,,12.69,26390.00,24440.00
+39-3090,Miscellaneous Entertainment Attendants and Related Workers,279510.00,,12.81,26650.00,24800.00
+39-3091,Amusement and Recreation Attendants,262170.00,,12.55,26110.00,24500.00
+39-3092,Costume Attendants,3380.00,,26.25,54590.00,47850.00
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",9670.00,,14.53,30220.00,28570.00
+39-3099,"Entertainment Attendants and Related Workers, All Other",4290.00,,14.27,29680.00,24170.00
+39-4000,Funeral Service Workers,63300.00,,20.58,42800.00,36490.00
+39-4010,Embalmers and Crematory Operators,6110.00,,22.77,47350.00,44960.00
+39-4011,Embalmers,4070.00,,24.62,51210.00,47780.00
+39-4012,Crematory Operators,2040.00,,19.07,39660.00,37490.00
+39-4020,Funeral Attendants,32490.00,,15.21,31630.00,29230.00
+39-4021,Funeral Attendants,32490.00,,15.21,31630.00,29230.00
+39-4030,"Morticians, Undertakers, and Funeral Arrangers",24700.00,,27.10,56360.00,48950.00
+39-4031,"Morticians, Undertakers, and Funeral Arrangers",24700.00,,27.10,56360.00,48950.00
+39-5000,Personal Appearance Workers,481530.00,,16.99,35350.00,29590.00
+39-5010,"Barbers, Hairdressers, Hairstylists and Cosmetologists",298880.00,,17.30,35980.00,29680.00
+39-5011,Barbers,12910.00,,17.16,35700.00,29970.00
+39-5012,"Hairdressers, Hairstylists, and Cosmetologists",285980.00,,17.30,35990.00,29670.00
+39-5090,Miscellaneous Personal Appearance Workers,182640.00,,16.50,34310.00,29450.00
+39-5091,"Makeup Artists, Theatrical and Performance",1960.00,,59.80,124380.00,134750.00
+39-5092,Manicurists and Pedicurists,120540.00,,14.65,30480.00,29210.00
+39-5093,Shampooers,9560.00,,12.09,25160.00,24440.00
+39-5094,Skincare Specialists,50580.00,,20.05,41700.00,37300.00
+39-6000,"Baggage Porters, Bellhops, and Concierges",54100.00,,16.68,34680.00,30720.00
+39-6010,"Baggage Porters, Bellhops, and Concierges",54100.00,,16.68,34680.00,30720.00
+39-6011,Baggage Porters and Bellhops,20530.00,,14.44,30040.00,29120.00
+39-6012,Concierges,33560.00,,18.04,37520.00,35210.00
+39-7000,Tour and Travel Guides,30980.00,,15.96,33200.00,29780.00
+39-7010,Tour and Travel Guides,30980.00,,15.96,33200.00,29780.00
+39-7010,Tour and Travel Guides,30980.00,,15.96,33200.00,29780.00
+39-9000,Other Personal Care and Service Workers,1088670.00,,15.99,33260.00,29540.00
+39-9010,Childcare Workers,438520.00,,13.31,27680.00,27490.00
+39-9011,Childcare Workers,438520.00,,13.31,27680.00,27490.00
+39-9030,Recreation and Fitness Workers,485620.00,,18.43,38340.00,30930.00
+39-9031,Exercise Trainers and Group Fitness Instructors,221600.00,,22.05,45870.00,40700.00
+39-9032,Recreation Workers,264020.00,,15.39,32020.00,29680.00
+39-9040,Residential Advisors,92500.00,,16.81,34950.00,31220.00
+39-9041,Residential Advisors,92500.00,,16.81,34950.00,31220.00
+39-9090,Miscellaneous Personal Care and Service Workers,72030.00,,14.80,30790.00,29610.00
+39-9099,"Personal Care and Service Workers, All Other",72030.00,,14.80,30790.00,29610.00
+41-0000,Sales and Related Occupations,13256290.00,,22.15,46080.00,30600.00
+41-1000,Supervisors of Sales Workers,1387190.00,,26.38,54880.00,46850.00
+41-1010,First-Line Supervisors of Sales Workers,1387190.00,,26.38,54880.00,46850.00
+41-1011,First-Line Supervisors of Retail Sales Workers,1143260.00,,22.54,46890.00,39230.00
+41-1012,First-Line Supervisors of Non-Retail Sales Workers,243920.00,,44.38,92320.00,79680.00
+41-2000,Retail Sales Workers,7665410.00,,14.45,30060.00,28680.00
+41-2010,Cashiers,3335170.00,,12.88,26780.00,27280.00
+41-2011,Cashiers,3318020.00,,12.87,26770.00,27260.00
+41-2012,Gambling Change Persons and Booth Cashiers,17150.00,,14.00,29130.00,28600.00
+41-2020,Counter and Rental Clerks and Parts Salespersons,636750.00,,17.54,36480.00,31780.00
+41-2021,Counter and Rental Clerks,371620.00,,17.39,36170.00,31330.00
+41-2022,Parts Salespersons,265130.00,,17.75,36920.00,34260.00
+41-2030,Retail Salespersons,3693490.00,,15.35,31920.00,29120.00
+41-2031,Retail Salespersons,3693490.00,,15.35,31920.00,29120.00
+41-3000,"Sales Representatives, Services",2009700.00,,35.95,74770.00,60550.00
+41-3010,Advertising Sales Agents,96660.00,,31.99,66540.00,52340.00
+41-3011,Advertising Sales Agents,96660.00,,31.99,66540.00,52340.00
+41-3020,Insurance Sales Agents,422600.00,,33.34,69340.00,49840.00
+41-3021,Insurance Sales Agents,422600.00,,33.34,69340.00,49840.00
+41-3030,"Securities, Commodities, and Financial Services Sales Agents",426870.00,,44.84,93260.00,62910.00
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",426870.00,,44.84,93260.00,62910.00
+41-3040,Travel Agents,37190.00,,22.39,46580.00,43810.00
+41-3041,Travel Agents,37190.00,,22.39,46580.00,43810.00
+41-3090,"Miscellaneous Sales Representatives, Services",1026390.00,,34.19,71110.00,60550.00
+41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",1026390.00,,34.19,71110.00,60550.00
+41-4000,"Sales Representatives, Wholesale and Manufacturing",1508660.00,,37.38,77750.00,62890.00
+41-4010,"Sales Representatives, Wholesale and Manufacturing",1508660.00,,37.38,77750.00,62890.00
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",266160.00,,49.40,102750.00,94840.00
+41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",1242490.00,,34.81,72390.00,61600.00
+41-9000,Other Sales and Related Workers,685330.00,,25.76,53580.00,36590.00
+41-9010,"Models, Demonstrators, and Product Promoters",42670.00,,19.01,39550.00,32730.00
+41-9011,Demonstrators and Product Promoters,40680.00,,17.78,36990.00,32350.00
+41-9012,Models,2000.00,,*,*,*
+41-9020,Real Estate Brokers and Sales Agents,224380.00,,32.16,66880.00,48770.00
+41-9021,Real Estate Brokers,48460.00,,41.58,86490.00,62010.00
+41-9022,Real Estate Sales Agents,175920.00,,29.56,61480.00,48340.00
+41-9030,Sales Engineers,59550.00,,57.03,118630.00,103710.00
+41-9031,Sales Engineers,59550.00,,57.03,118630.00,103710.00
+41-9040,Telemarketers,115130.00,,14.74,30670.00,28910.00
+41-9041,Telemarketers,115130.00,,14.74,30670.00,28910.00
+41-9090,Miscellaneous Sales and Related Workers,243600.00,,18.61,38720.00,29570.00
+41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",7860.00,,16.81,34970.00,29390.00
+41-9099,"Sales and Related Workers, All Other",235740.00,,18.67,38840.00,29570.00
+43-0000,Office and Administrative Support Occupations,18299380.00,,20.88,43430.00,38050.00
+43-1000,Supervisors of Office and Administrative Support Workers,1443630.00,,30.47,63380.00,60590.00
+43-1010,First-Line Supervisors of Office and Administrative Support Workers,1443630.00,,30.47,63380.00,60590.00
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,1443630.00,,30.47,63380.00,60590.00
+43-2000,Communications Equipment Operators,53400.00,,16.98,35310.00,30720.00
+43-2010,"Switchboard Operators, Including Answering Service",48190.00,,16.63,34590.00,30150.00
+43-2011,"Switchboard Operators, Including Answering Service",48190.00,,16.63,34590.00,30150.00
+43-2020,Telephone Operators,3870.00,,18.93,39370.00,37630.00
+43-2021,Telephone Operators,3870.00,,18.93,39370.00,37630.00
+43-2090,Miscellaneous Communications Equipment Operators,1340.00,,23.79,49470.00,47000.00
+43-2099,"Communications Equipment Operators, All Other",1340.00,,23.79,49470.00,47000.00
+43-3000,Financial Clerks,2768230.00,,20.84,43340.00,38830.00
+43-3010,Bill and Account Collectors,212900.00,,19.85,41280.00,37700.00
+43-3011,Bill and Account Collectors,212900.00,,19.85,41280.00,37700.00
+43-3020,Billing and Posting Clerks,429080.00,,20.55,42750.00,38330.00
+43-3021,Billing and Posting Clerks,429080.00,,20.55,42750.00,38330.00
+43-3030,"Bookkeeping, Accounting, and Auditing Clerks",1509370.00,,21.70,45140.00,45560.00
+43-3031,"Bookkeeping, Accounting, and Auditing Clerks",1509370.00,,21.70,45140.00,45560.00
+43-3040,Gambling Cage Workers,11140.00,,14.79,30770.00,29360.00
+43-3041,Gambling Cage Workers,11140.00,,14.79,30770.00,29360.00
+43-3050,Payroll and Timekeeping Clerks,149290.00,,23.83,49560.00,47610.00
+43-3051,Payroll and Timekeeping Clerks,149290.00,,23.83,49560.00,47610.00
+43-3060,Procurement Clerks,61930.00,,21.60,44930.00,45150.00
+43-3061,Procurement Clerks,61930.00,,21.60,44930.00,45150.00
+43-3070,Tellers,364210.00,,16.79,34930.00,36310.00
+43-3071,Tellers,364210.00,,16.79,34930.00,36310.00
+43-3090,Miscellaneous Financial Clerks,30310.00,,23.00,47830.00,46900.00
+43-3099,"Financial Clerks, All Other",30310.00,,23.00,47830.00,46900.00
+43-4000,Information and Record Clerks,5461400.00,,18.59,38670.00,36770.00
+43-4010,Brokerage Clerks,39980.00,,27.75,57710.00,54000.00
+43-4011,Brokerage Clerks,39980.00,,27.75,57710.00,54000.00
+43-4020,Correspondence Clerks,7060.00,,20.06,41710.00,37920.00
+43-4021,Correspondence Clerks,7060.00,,20.06,41710.00,37920.00
+43-4030,"Court, Municipal, and License Clerks",150170.00,,21.57,44870.00,44610.00
+43-4031,"Court, Municipal, and License Clerks",150170.00,,21.57,44870.00,44610.00
+43-4040,"Credit Authorizers, Checkers, and Clerks",16820.00,,21.42,44540.00,44710.00
+43-4041,"Credit Authorizers, Checkers, and Clerks",16820.00,,21.42,44540.00,44710.00
+43-4050,Customer Service Representatives,2787070.00,,18.79,39070.00,36920.00
+43-4051,Customer Service Representatives,2787070.00,,18.79,39070.00,36920.00
+43-4060,"Eligibility Interviewers, Government Programs",151340.00,,23.35,48570.00,47420.00
+43-4061,"Eligibility Interviewers, Government Programs",151340.00,,23.35,48570.00,47420.00
+43-4070,File Clerks,85460.00,,17.70,36820.00,36360.00
+43-4071,File Clerks,85460.00,,17.70,36820.00,36360.00
+43-4080,"Hotel, Motel, and Resort Desk Clerks",220380.00,,13.48,28040.00,28080.00
+43-4081,"Hotel, Motel, and Resort Desk Clerks",220380.00,,13.48,28040.00,28080.00
+43-4110,"Interviewers, Except Eligibility and Loan",169840.00,,18.67,38840.00,37220.00
+43-4111,"Interviewers, Except Eligibility and Loan",169840.00,,18.67,38840.00,37220.00
+43-4120,"Library Assistants, Clerical",78470.00,,15.62,32490.00,29450.00
+43-4121,"Library Assistants, Clerical",78470.00,,15.62,32490.00,29450.00
+43-4130,Loan Interviewers and Clerks,238610.00,,21.59,44910.00,45940.00
+43-4131,Loan Interviewers and Clerks,238610.00,,21.59,44910.00,45940.00
+43-4140,New Accounts Clerks,40500.00,,19.83,41250.00,37840.00
+43-4141,New Accounts Clerks,40500.00,,19.83,41250.00,37840.00
+43-4150,Order Clerks,133850.00,,20.11,41820.00,37920.00
+43-4151,Order Clerks,133850.00,,20.11,41820.00,37920.00
+43-4160,"Human Resources Assistants, Except Payroll and Timekeeping",102770.00,,21.56,44840.00,45630.00
+43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",102770.00,,21.56,44840.00,45630.00
+43-4170,Receptionists and Information Clerks,983150.00,,15.82,32910.00,29950.00
+43-4171,Receptionists and Information Clerks,983150.00,,15.82,32910.00,29950.00
+43-4180,Reservation and Transportation Ticket Agents and Travel Clerks,100860.00,,21.94,45630.00,39900.00
+43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,100860.00,,21.94,45630.00,39900.00
+43-4190,Miscellaneous Information and Record Clerks,155080.00,,21.13,43950.00,43160.00
+43-4199,"Information and Record Clerks, All Other",155080.00,,21.13,43950.00,43160.00
+43-5000,"Material Recording, Scheduling, Dispatching, and Distributing Workers",2213750.00,,21.97,45710.00,42030.00
+43-5010,Cargo and Freight Agents,85750.00,,23.28,48420.00,46910.00
+43-5011,Cargo and Freight Agents,85750.00,,23.28,48420.00,46910.00
+43-5020,Couriers and Messengers,68310.00,,16.48,34270.00,33050.00
+43-5021,Couriers and Messengers,68310.00,,16.48,34270.00,33050.00
+43-5030,Dispatchers,291380.00,,22.49,46780.00,45510.00
+43-5031,Public Safety Telecommunicators,97050.00,,22.61,47030.00,46670.00
+43-5032,"Dispatchers, Except Police, Fire, and Ambulance",194330.00,,22.43,46650.00,44050.00
+43-5040,"Meter Readers, Utilities",24000.00,,22.81,47430.00,45720.00
+43-5041,"Meter Readers, Utilities",24000.00,,22.81,47430.00,45720.00
+43-5050,Postal Service Workers,527000.00,,25.71,53480.00,51730.00
+43-5051,Postal Service Clerks,79320.00,,25.58,53210.00,52290.00
+43-5052,Postal Service Mail Carriers,335540.00,,26.14,54370.00,52440.00
+43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",112130.00,,24.52,51010.00,48550.00
+43-5060,"Production, Planning, and Expediting Clerks",367200.00,,25.11,52220.00,48040.00
+43-5061,"Production, Planning, and Expediting Clerks",367200.00,,25.11,52220.00,48040.00
+43-5070,"Shipping, Receiving, and Inventory Clerks",795360.00,,18.37,38210.00,36890.00
+43-5071,"Shipping, Receiving, and Inventory Clerks",795360.00,,18.37,38210.00,36890.00
+43-5110,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",54760.00,,19.01,39540.00,37610.00
+43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",54760.00,,19.01,39540.00,37610.00
+43-6000,Secretaries and Administrative Assistants,3104790.00,,21.76,45250.00,39680.00
+43-6010,Secretaries and Administrative Assistants,3104790.00,,21.76,45250.00,39680.00
+43-6011,Executive Secretaries and Executive Administrative Assistants,466910.00,,32.15,66870.00,62060.00
+43-6012,Legal Secretaries and Administrative Assistants,155250.00,,25.26,52540.00,47710.00
+43-6013,Medical Secretaries and Administrative Assistants,656640.00,,19.11,39740.00,37450.00
+43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",1825980.00,,19.75,41080.00,37880.00
+43-9000,Other Office and Administrative Support Workers,3254180.00,,18.98,39480.00,37180.00
+43-9020,Data Entry and Information Processing Workers,189100.00,,18.07,37590.00,36850.00
+43-9021,Data Entry Keyers,147170.00,,17.28,35940.00,35630.00
+43-9022,Word Processors and Typists,41930.00,,20.85,43370.00,44030.00
+43-9030,Desktop Publishers,7600.00,,24.49,50930.00,46910.00
+43-9031,Desktop Publishers,7600.00,,24.49,50930.00,46910.00
+43-9040,Insurance Claims and Policy Processing Clerks,218300.00,,22.02,45790.00,45520.00
+43-9041,Insurance Claims and Policy Processing Clerks,218300.00,,22.02,45790.00,45520.00
+43-9050,"Mail Clerks and Mail Machine Operators, Except Postal Service",69400.00,,16.54,34390.00,32550.00
+43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",69400.00,,16.54,34390.00,32550.00
+43-9060,"Office Clerks, General",2578180.00,,18.75,38990.00,37030.00
+43-9061,"Office Clerks, General",2578180.00,,18.75,38990.00,37030.00
+43-9070,"Office Machine Operators, Except Computer",32920.00,,17.84,37110.00,36630.00
+43-9071,"Office Machine Operators, Except Computer",32920.00,,17.84,37110.00,36630.00
+43-9080,Proofreaders and Copy Markers,5340.00,,22.12,46010.00,43940.00
+43-9081,Proofreaders and Copy Markers,5340.00,,22.12,46010.00,43940.00
+43-9110,Statistical Assistants,6190.00,,25.68,53420.00,48160.00
+43-9111,Statistical Assistants,6190.00,,25.68,53420.00,48160.00
+43-9190,Miscellaneous Office and Administrative Support Workers,147140.00,,20.47,42580.00,37900.00
+43-9199,"Office and Administrative Support Workers, All Other",147140.00,,20.47,42580.00,37900.00
+45-0000,"Farming, Fishing, and Forestry Occupations",452490.00,,16.70,34730.00,29860.00
+45-1000,"Supervisors of Farming, Fishing, and Forestry Workers",25770.00,,26.18,54450.00,48640.00
+45-1010,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",25770.00,,26.18,54450.00,48640.00
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",25770.00,,26.18,54450.00,48640.00
+45-2000,Agricultural Workers,383760.00,,15.60,32450.00,29680.00
+45-2010,Agricultural Inspectors,13630.00,,22.80,47430.00,45140.00
+45-2011,Agricultural Inspectors,13630.00,,22.80,47430.00,45140.00
+45-2020,Animal Breeders,950.00,,20.81,43270.00,40090.00
+45-2021,Animal Breeders,950.00,,20.81,43270.00,40090.00
+45-2040,"Graders and Sorters, Agricultural Products",25560.00,,14.62,30400.00,29630.00
+45-2041,"Graders and Sorters, Agricultural Products",25560.00,,14.62,30400.00,29630.00
+45-2090,Miscellaneous Agricultural Workers,343630.00,,15.37,31980.00,29680.00
+45-2091,Agricultural Equipment Operators,26180.00,,17.44,36280.00,36360.00
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",277200.00,,15.11,31440.00,29630.00
+45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",34140.00,,15.46,32150.00,29630.00
+45-2099,"Agricultural Workers, All Other",6100.00,,17.88,37190.00,32550.00
+45-4000,"Forest, Conservation, and Logging Workers",42330.00,,20.83,43320.00,39050.00
+45-4010,Forest and Conservation Workers,6300.00,,16.20,33690.00,30550.00
+45-4011,Forest and Conservation Workers,6300.00,,16.20,33690.00,30550.00
+45-4020,Logging Workers,36030.00,,21.63,45000.00,46330.00
+45-4021,Fallers,4170.00,,25.85,53760.00,47700.00
+45-4022,Logging Equipment Operators,25510.00,,21.14,43960.00,46400.00
+45-4023,Log Graders and Scalers,3260.00,,19.96,41520.00,37820.00
+45-4029,"Logging Workers, All Other",3080.00,,21.84,45430.00,46090.00
+47-0000,Construction and Extraction Occupations,5848950.00,,26.87,55900.00,48210.00
+47-1000,Supervisors of Construction and Extraction Workers,665870.00,,36.09,75060.00,72010.00
+47-1010,First-Line Supervisors of Construction Trades and Extraction Workers,665870.00,,36.09,75060.00,72010.00
+47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,665870.00,,36.09,75060.00,72010.00
+47-2000,Construction Trades Workers,4362080.00,,26.03,54140.00,47860.00
+47-2010,Boilermakers,12920.00,,33.21,69070.00,64290.00
+47-2011,Boilermakers,12920.00,,33.21,69070.00,64290.00
+47-2020,"Brickmasons, Blockmasons, and Stonemasons",64950.00,,28.78,59870.00,56950.00
+47-2021,Brickmasons and Blockmasons,55950.00,,29.53,61430.00,59340.00
+47-2022,Stonemasons,9000.00,,24.12,50170.00,47610.00
+47-2030,Carpenters,668060.00,,26.53,55190.00,48260.00
+47-2031,Carpenters,668060.00,,26.53,55190.00,48260.00
+47-2040,"Carpet, Floor, and Tile Installers and Finishers",83600.00,,24.95,51890.00,47310.00
+47-2041,Carpet Installers,19790.00,,23.42,48710.00,46640.00
+47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",18300.00,,25.90,53880.00,48060.00
+47-2043,Floor Sanders and Finishers,4340.00,,21.34,44380.00,39140.00
+47-2044,Tile and Stone Setters,41160.00,,25.64,53330.00,47810.00
+47-2050,"Cement Masons, Concrete Finishers, and Terrazzo Workers",189240.00,,24.52,51000.00,47360.00
+47-2051,Cement Masons and Concrete Finishers,186600.00,,24.47,50900.00,47340.00
+47-2053,Terrazzo Workers and Finishers,2640.00,,28.07,58380.00,48680.00
+47-2060,Construction Laborers,968760.00,,21.22,44130.00,37770.00
+47-2061,Construction Laborers,968760.00,,21.22,44130.00,37770.00
+47-2070,Construction Equipment Operators,452780.00,,26.87,55890.00,48290.00
+47-2071,"Paving, Surfacing, and Tamping Equipment Operators",44200.00,,24.32,50590.00,46960.00
+47-2072,Pile Driver Operators,3760.00,,36.51,75950.00,76260.00
+47-2073,Operating Engineers and Other Construction Equipment Operators,404820.00,,27.06,56280.00,48360.00
+47-2080,"Drywall Installers, Ceiling Tile Installers, and Tapers",111650.00,,27.00,56160.00,48350.00
+47-2081,Drywall and Ceiling Tile Installers,97070.00,,26.35,54810.00,48040.00
+47-2082,Tapers,14580.00,,31.32,65140.00,61080.00
+47-2110,Electricians,650580.00,,30.44,63310.00,60040.00
+47-2111,Electricians,650580.00,,30.44,63310.00,60040.00
+47-2120,Glaziers,52700.00,,24.98,51950.00,47180.00
+47-2121,Glaziers,52700.00,,24.98,51950.00,47180.00
+47-2130,Insulation Workers,58370.00,,24.18,50300.00,46760.00
+47-2131,"Insulation Workers, Floor, Ceiling, and Wall",30360.00,,21.54,44810.00,39880.00
+47-2132,"Insulation Workers, Mechanical",28010.00,,27.05,56260.00,48260.00
+47-2140,Painters and Paperhangers,216560.00,,22.69,47180.00,45630.00
+47-2141,"Painters, Construction and Maintenance",214220.00,,22.66,47140.00,45590.00
+47-2142,Paperhangers,2340.00,,24.79,51560.00,47610.00
+47-2150,"Pipelayers, Plumbers, Pipefitters, and Steamfitters",450940.00,,29.93,62250.00,59310.00
+47-2151,Pipelayers,33330.00,,23.32,48510.00,45980.00
+47-2152,"Plumbers, Pipefitters, and Steamfitters",417620.00,,30.46,63350.00,59880.00
+47-2160,Plasterers and Stucco Masons,26980.00,,26.35,54810.00,48340.00
+47-2161,Plasterers and Stucco Masons,26980.00,,26.35,54810.00,48340.00
+47-2170,Reinforcing Iron and Rebar Workers,16420.00,,28.35,58960.00,48830.00
+47-2171,Reinforcing Iron and Rebar Workers,16420.00,,28.35,58960.00,48830.00
+47-2180,Roofers,129890.00,,23.51,48890.00,47110.00
+47-2181,Roofers,129890.00,,23.51,48890.00,47110.00
+47-2210,Sheet Metal Workers,122630.00,,28.25,58760.00,53440.00
+47-2211,Sheet Metal Workers,122630.00,,28.25,58760.00,53440.00
+47-2220,Structural Iron and Steel Workers,68620.00,,29.46,61270.00,58550.00
+47-2221,Structural Iron and Steel Workers,68620.00,,29.46,61270.00,58550.00
+47-2230,Solar Photovoltaic Installers,16420.00,,24.38,50710.00,47670.00
+47-2231,Solar Photovoltaic Installers,16420.00,,24.38,50710.00,47670.00
+47-3000,"Helpers, Construction Trades",206900.00,,17.95,37340.00,36510.00
+47-3010,"Helpers, Construction Trades",206900.00,,17.95,37340.00,36510.00
+47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",18210.00,,20.85,43370.00,37870.00
+47-3012,Helpers--Carpenters,27540.00,,17.95,37340.00,36690.00
+47-3013,Helpers--Electricians,72150.00,,17.66,36720.00,36360.00
+47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",8940.00,,16.96,35270.00,33370.00
+47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",45930.00,,17.47,36350.00,35720.00
+47-3016,Helpers--Roofers,6830.00,,17.31,36000.00,36360.00
+47-3019,"Helpers, Construction Trades, All Other",27300.00,,18.08,37610.00,36690.00
+47-4000,Other Construction and Related Workers,430760.00,,26.28,54670.00,47910.00
+47-4010,Construction and Building Inspectors,117830.00,,32.93,68480.00,61640.00
+47-4011,Construction and Building Inspectors,117830.00,,32.93,68480.00,61640.00
+47-4020,Elevator and Escalator Installers and Repairers,22510.00,,43.91,91320.00,97860.00
+47-4021,Elevator and Escalator Installers and Repairers,22510.00,,43.91,91320.00,97860.00
+47-4030,Fence Erectors,24470.00,,19.78,41140.00,37700.00
+47-4031,Fence Erectors,24470.00,,19.78,41140.00,37700.00
+47-4040,Hazardous Materials Removal Workers,44240.00,,23.69,49280.00,46300.00
+47-4041,Hazardous Materials Removal Workers,44240.00,,23.69,49280.00,46300.00
+47-4050,Highway Maintenance Workers,141150.00,,21.32,44340.00,45880.00
+47-4051,Highway Maintenance Workers,141150.00,,21.32,44340.00,45880.00
+47-4060,Rail-Track Laying and Maintenance Equipment Operators,21030.00,,29.22,60770.00,61690.00
+47-4061,Rail-Track Laying and Maintenance Equipment Operators,21030.00,,29.22,60770.00,61690.00
+47-4070,Septic Tank Servicers and Sewer Pipe Cleaners,28620.00,,21.82,45390.00,44810.00
+47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,28620.00,,21.82,45390.00,44810.00
+47-4090,Miscellaneous Construction and Related Workers,30920.00,,21.81,45370.00,39850.00
+47-4090,Miscellaneous Construction and Related Workers,30920.00,,21.81,45370.00,39850.00
+47-5000,Extraction Workers,183340.00,,24.95,51900.00,47600.00
+47-5010,"Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas",51910.00,,27.14,56460.00,48740.00
+47-5011,"Derrick Operators, Oil and Gas",7880.00,,25.07,52140.00,47230.00
+47-5012,"Rotary Drill Operators, Oil and Gas",11170.00,,29.73,61840.00,56380.00
+47-5013,"Service Unit Operators, Oil and Gas",32870.00,,26.76,55660.00,48410.00
+47-5020,Surface Mining Machine Operators and Earth Drillers,51520.00,,24.52,51000.00,47370.00
+47-5022,"Excavating and Loading Machine and Dragline Operators, Surface Mining",35720.00,,23.97,49850.00,46740.00
+47-5023,"Earth Drillers, Except Oil and Gas",15800.00,,25.77,53600.00,48250.00
+47-5030,"Explosives Workers, Ordnance Handling Experts, and Blasters",5370.00,,27.44,57070.00,53040.00
+47-5032,"Explosives Workers, Ordnance Handling Experts, and Blasters",5370.00,,27.44,57070.00,53040.00
+47-5040,Underground Mining Machine Operators,24200.00,,27.85,57920.00,59840.00
+47-5041,Continuous Mining Machine Operators,14740.00,,27.61,57430.00,60300.00
+47-5043,"Roof Bolters, Mining",1850.00,,28.45,59170.00,59770.00
+47-5044,"Loading and Moving Machine Operators, Underground Mining",4450.00,,27.56,57330.00,57900.00
+47-5049,"Underground Mining Machine Operators, All Other",3150.00,,28.99,60290.00,61260.00
+47-5050,"Rock Splitters, Quarry",4450.00,,20.02,41630.00,37700.00
+47-5051,"Rock Splitters, Quarry",4450.00,,20.02,41630.00,37700.00
+47-5070,"Roustabouts, Oil and Gas",34520.00,,21.51,44730.00,38920.00
+47-5071,"Roustabouts, Oil and Gas",34520.00,,21.51,44730.00,38920.00
+47-5080,Helpers--Extraction Workers,5980.00,,19.65,40860.00,37760.00
+47-5081,Helpers--Extraction Workers,5980.00,,19.65,40860.00,37760.00
+47-5090,Miscellaneous Extraction Workers,5380.00,,24.50,50960.00,48140.00
+47-5099,"Extraction Workers, All Other",5380.00,,24.50,50960.00,48140.00
+49-0000,"Installation, Maintenance, and Repair Occupations",5574410.00,,25.66,53380.00,47940.00
+49-1000,"Supervisors of Installation, Maintenance, and Repair Workers",526240.00,,35.38,73590.00,71260.00
+49-1010,"First-Line Supervisors of Mechanics, Installers, and Repairers",526240.00,,35.38,73590.00,71260.00
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",526240.00,,35.38,73590.00,71260.00
+49-2000,"Electrical and Electronic Equipment Mechanics, Installers, and Repairers",499670.00,,27.53,57260.00,55820.00
+49-2010,"Computer, Automated Teller, and Office Machine Repairers",86420.00,,21.24,44170.00,40970.00
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",86420.00,,21.24,44170.00,40970.00
+49-2020,Radio and Telecommunications Equipment Installers and Repairers,186530.00,,29.09,60510.00,60360.00
+49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers",13700.00,,30.05,62500.00,60360.00
+49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",172830.00,,29.02,60350.00,60370.00
+49-2090,"Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairers",226720.00,,28.65,59590.00,58780.00
+49-2091,Avionics Technicians,18910.00,,33.59,69860.00,69280.00
+49-2092,"Electric Motor, Power Tool, and Related Repairers",15880.00,,23.43,48740.00,46910.00
+49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",10710.00,,33.97,70650.00,77250.00
+49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",50780.00,,30.88,64230.00,61730.00
+49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",22490.00,,42.13,87640.00,93420.00
+49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",9000.00,,21.01,43690.00,40670.00
+49-2097,Audiovisual Equipment Installers and Repairers,21540.00,,22.18,46120.00,44790.00
+49-2098,Security and Fire Alarm Systems Installers,77420.00,,25.08,52170.00,48320.00
+49-3000,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",1570020.00,,24.23,50400.00,47410.00
+49-3010,Aircraft Mechanics and Service Technicians,125440.00,,33.40,69470.00,65380.00
+49-3011,Aircraft Mechanics and Service Technicians,125440.00,,33.40,69470.00,65380.00
+49-3020,Automotive Technicians and Repairers,783310.00,,23.22,48310.00,46910.00
+49-3021,Automotive Body and Related Repairers,137300.00,,24.36,50660.00,47270.00
+49-3022,Automotive Glass Installers and Repairers,16230.00,,19.56,40690.00,37920.00
+49-3023,Automotive Service Technicians and Mechanics,629780.00,,23.07,47990.00,46880.00
+49-3030,Bus and Truck Mechanics and Diesel Engine Specialists,261420.00,,25.49,53020.00,48690.00
+49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,261420.00,,25.49,53020.00,48690.00
+49-3040,Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics,203060.00,,26.87,55900.00,53770.00
+49-3041,Farm Equipment Mechanics and Service Technicians,35030.00,,22.71,47250.00,46910.00
+49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",145230.00,,27.54,57280.00,58030.00
+49-3043,Rail Car Repairers,22800.00,,29.04,60400.00,60250.00
+49-3050,Small Engine Mechanics,72800.00,,20.53,42690.00,39050.00
+49-3051,Motorboat Mechanics and Service Technicians,23080.00,,22.43,46660.00,46730.00
+49-3052,Motorcycle Mechanics,15020.00,,20.18,41970.00,38170.00
+49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,34700.00,,19.41,40360.00,37540.00
+49-3090,"Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",123980.00,,16.51,34340.00,30370.00
+49-3091,Bicycle Repairers,14760.00,,16.52,34360.00,34690.00
+49-3092,Recreational Vehicle Service Technicians,16030.00,,21.60,44930.00,43560.00
+49-3093,Tire Repairers and Changers,93180.00,,15.63,32520.00,29580.00
+49-9000,"Other Installation, Maintenance, and Repair Occupations",2978490.00,,24.39,50730.00,47230.00
+49-9010,Control and Valve Installers and Repairers,68170.00,,28.78,59860.00,53980.00
+49-9011,Mechanical Door Repairers,23300.00,,21.88,45520.00,45060.00
+49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",44870.00,,32.36,67310.00,62760.00
+49-9020,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",356960.00,,26.29,54690.00,48630.00
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",356960.00,,26.29,54690.00,48630.00
+49-9030,Home Appliance Repairers,28120.00,,21.80,45340.00,44320.00
+49-9031,Home Appliance Repairers,28120.00,,21.80,45340.00,44320.00
+49-9040,"Industrial Machinery Installation, Repair, and Maintenance Workers",470650.00,,28.05,58350.00,59380.00
+49-9041,Industrial Machinery Mechanics,373090.00,,28.26,58780.00,59840.00
+49-9043,"Maintenance Workers, Machinery",57660.00,,25.75,53570.00,48900.00
+49-9044,Millwrights,39240.00,,29.45,61260.00,60330.00
+49-9045,"Refractory Materials Repairers, Except Brickmasons",660.00,,26.33,54760.00,54250.00
+49-9050,Line Installers and Repairers,225460.00,,34.37,71500.00,74530.00
+49-9051,Electrical Power-Line Installers and Repairers,123940.00,,38.01,79060.00,78310.00
+49-9052,Telecommunications Line Installers and Repairers,101530.00,,29.93,62250.00,60190.00
+49-9060,Precision Instrument and Equipment Repairers,74530.00,,26.38,54870.00,48630.00
+49-9061,Camera and Photographic Equipment Repairers,2340.00,,21.28,44260.00,38200.00
+49-9062,Medical Equipment Repairers,53400.00,,27.13,56420.00,49910.00
+49-9063,Musical Instrument Repairers and Tuners,5710.00,,19.11,39740.00,37160.00
+49-9064,Watch and Clock Repairers,1970.00,,21.86,45460.00,44250.00
+49-9069,"Precision Instrument and Equipment Repairers, All Other",11110.00,,28.40,59070.00,57670.00
+49-9070,"Maintenance and Repair Workers, General",1416740.00,,21.60,44920.00,43180.00
+49-9071,"Maintenance and Repair Workers, General",1416740.00,,21.60,44920.00,43180.00
+49-9080,Wind Turbine Service Technicians,10100.00,,28.16,58580.00,56260.00
+49-9081,Wind Turbine Service Technicians,10100.00,,28.16,58580.00,56260.00
+49-9090,"Miscellaneous Installation, Maintenance, and Repair Workers",327750.00,,21.01,43710.00,38030.00
+49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",27540.00,,20.20,42010.00,39040.00
+49-9092,Commercial Divers,2670.00,,39.43,82010.00,60360.00
+49-9094,Locksmiths and Safe Repairers,15380.00,,22.98,47810.00,46910.00
+49-9095,Manufactured Building and Mobile Home Installers,3530.00,,17.23,35830.00,36360.00
+49-9096,Riggers,17980.00,,25.05,52100.00,48130.00
+49-9097,Signal and Track Switch Repairers,8090.00,,35.68,74220.00,80570.00
+49-9098,"Helpers--Installation, Maintenance, and Repair Workers",88480.00,,16.87,35090.00,33100.00
+49-9099,"Installation, Maintenance, and Repair Workers, All Other",164070.00,,21.82,45380.00,42570.00
+51-0000,Production Occupations,8408030.00,,20.71,43070.00,37710.00
+51-1000,Supervisors of Production Workers,629420.00,,32.37,67330.00,61790.00
+51-1010,First-Line Supervisors of Production and Operating Workers,629420.00,,32.37,67330.00,61790.00
+51-1011,First-Line Supervisors of Production and Operating Workers,629420.00,,32.37,67330.00,61790.00
+51-2000,Assemblers and Fabricators,1769890.00,,18.75,39000.00,37170.00
+51-2010,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",33320.00,,26.63,55380.00,49480.00
+51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",33320.00,,26.63,55380.00,49480.00
+51-2020,"Electrical, Electronics, and Electromechanical Assemblers",283010.00,,19.11,39740.00,37460.00
+51-2021,"Coil Winders, Tapers, and Finishers",11090.00,,20.41,42460.00,38360.00
+51-2028,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",271920.00,,19.05,39630.00,37460.00
+51-2030,Engine and Other Machine Assemblers,45990.00,,23.13,48110.00,47440.00
+51-2031,Engine and Other Machine Assemblers,45990.00,,23.13,48110.00,47440.00
+51-2040,Structural Metal Fabricators and Fitters,61070.00,,21.99,45730.00,45480.00
+51-2041,Structural Metal Fabricators and Fitters,61070.00,,21.99,45730.00,45480.00
+51-2050,Fiberglass Laminators and Fabricators,17380.00,,19.40,40360.00,37650.00
+51-2051,Fiberglass Laminators and Fabricators,17380.00,,19.40,40360.00,37650.00
+51-2060,Timing Device Assemblers and Adjusters,560.00,,21.48,44670.00,37780.00
+51-2061,Timing Device Assemblers and Adjusters,560.00,,21.48,44670.00,37780.00
+51-2090,Miscellaneous Assemblers and Fabricators,1328550.00,,18.17,37780.00,36590.00
+51-2090,Miscellaneous Assemblers and Fabricators,1328550.00,,18.17,37780.00,36590.00
+51-3000,Food Processing Workers,795640.00,,16.27,33830.00,30480.00
+51-3010,Bakers,181800.00,,15.53,32300.00,29750.00
+51-3011,Bakers,181800.00,,15.53,32300.00,29750.00
+51-3020,"Butchers and Other Meat, Poultry, and Fish Processing Workers",364480.00,,16.04,33360.00,30280.00
+51-3021,Butchers and Meat Cutters,145930.00,,17.15,35670.00,36050.00
+51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",132100.00,,15.23,31680.00,29730.00
+51-3023,Slaughterers and Meat Packers,86450.00,,15.39,32010.00,29900.00
+51-3090,Miscellaneous Food Processing Workers,249360.00,,17.13,35630.00,35430.00
+51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",21050.00,,17.44,36280.00,35480.00
+51-3092,Food Batchmakers,155240.00,,17.40,36190.00,35780.00
+51-3093,Food Cooking Machine Operators and Tenders,26710.00,,17.03,35430.00,35890.00
+51-3099,"Food Processing Workers, All Other",46360.00,,16.16,33600.00,31890.00
+51-4000,Metal Workers and Plastic Workers,1633980.00,,21.56,44840.00,42960.00
+51-4020,"Forming Machine Setters, Operators, and Tenders, Metal and Plastic",102640.00,,20.53,42710.00,38580.00
+51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",59490.00,,19.48,40520.00,37750.00
+51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",11500.00,,21.35,44410.00,44520.00
+51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",31650.00,,22.22,46210.00,46210.00
+51-4030,"Machine Tool Cutting Setters, Operators, and Tenders, Metal and Plastic",288810.00,,19.59,40740.00,37720.00
+51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",179630.00,,19.23,40000.00,37630.00
+51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",6810.00,,20.79,43240.00,38580.00
+51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",67750.00,,19.25,40030.00,37550.00
+51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",19690.00,,21.28,44270.00,44240.00
+51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",14920.00,,22.64,47100.00,46850.00
+51-4040,Machinists,333220.00,,23.57,49020.00,47730.00
+51-4041,Machinists,333220.00,,23.57,49020.00,47730.00
+51-4050,"Metal Furnace Operators, Tenders, Pourers, and Casters",22110.00,,22.11,45990.00,46640.00
+51-4051,Metal-Refining Furnace Operators and Tenders,15540.00,,22.33,46440.00,46690.00
+51-4052,"Pourers and Casters, Metal",6570.00,,21.59,44910.00,45850.00
+51-4060,"Model Makers and Patternmakers, Metal and Plastic",5780.00,,26.80,55740.00,49480.00
+51-4061,"Model Makers, Metal and Plastic",3690.00,,28.40,59080.00,55630.00
+51-4062,"Patternmakers, Metal and Plastic",2090.00,,23.96,49840.00,48090.00
+51-4070,"Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic",176820.00,,18.13,37720.00,36590.00
+51-4071,Foundry Mold and Coremakers,13610.00,,19.22,39980.00,37710.00
+51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",163210.00,,18.04,37530.00,36370.00
+51-4080,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",134880.00,,19.63,40830.00,37630.00
+51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",134880.00,,19.63,40830.00,37630.00
+51-4110,Tool and Die Makers,63630.00,,26.99,56150.00,57000.00
+51-4111,Tool and Die Makers,63630.00,,26.99,56150.00,57000.00
+51-4120,"Welding, Soldering, and Brazing Workers",427580.00,,23.04,47910.00,46910.00
+51-4121,"Welders, Cutters, Solderers, and Brazers",397600.00,,23.21,48290.00,47010.00
+51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",29980.00,,20.65,42950.00,38580.00
+51-4190,Miscellaneous Metal Workers and Plastic Workers,78530.00,,19.68,40940.00,37630.00
+51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",14540.00,,19.98,41560.00,38450.00
+51-4192,"Layout Workers, Metal and Plastic",6840.00,,25.16,52340.00,51690.00
+51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",32310.00,,18.55,38580.00,37200.00
+51-4194,"Tool Grinders, Filers, and Sharpeners",6100.00,,20.99,43660.00,38430.00
+51-4199,"Metal Workers and Plastic Workers, All Other",18740.00,,18.98,39480.00,36990.00
+51-5100,Printing Workers,211930.00,,19.55,40660.00,37710.00
+51-5110,Printing Workers,211930.00,,19.55,40660.00,37710.00
+51-5111,Prepress Technicians and Workers,25840.00,,21.06,43800.00,42610.00
+51-5112,Printing Press Operators,145290.00,,19.77,41120.00,37770.00
+51-5113,Print Binding and Finishing Workers,40810.00,,17.82,37060.00,36590.00
+51-6000,"Textile, Apparel, and Furnishings Workers",445950.00,,15.00,31210.00,29420.00
+51-6010,Laundry and Dry-Cleaning Workers,157400.00,,13.38,27830.00,28350.00
+51-6011,Laundry and Dry-Cleaning Workers,157400.00,,13.38,27830.00,28350.00
+51-6020,"Pressers, Textile, Garment, and Related Materials",26910.00,,13.52,28110.00,28680.00
+51-6021,"Pressers, Textile, Garment, and Related Materials",26910.00,,13.52,28110.00,28680.00
+51-6030,Sewing Machine Operators,116220.00,,14.85,30880.00,29690.00
+51-6031,Sewing Machine Operators,116220.00,,14.85,30880.00,29690.00
+51-6040,Shoe and Leather Workers,9240.00,,15.84,32950.00,29760.00
+51-6041,Shoe and Leather Workers and Repairers,5620.00,,16.77,34890.00,31450.00
+51-6042,Shoe Machine Operators and Tenders,3610.00,,14.38,29920.00,28560.00
+51-6050,"Tailors, Dressmakers, and Sewers",21450.00,,16.65,34630.00,31180.00
+51-6051,"Sewers, Hand",4170.00,,15.07,31350.00,29930.00
+51-6052,"Tailors, Dressmakers, and Custom Sewers",17270.00,,17.03,35430.00,31420.00
+51-6060,"Textile Machine Setters, Operators, and Tenders",56700.00,,15.92,33110.00,30050.00
+51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,6240.00,,15.36,31940.00,29930.00
+51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",11970.00,,15.91,33100.00,29960.00
+51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",16330.00,,16.17,33640.00,33990.00
+51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",22160.00,,15.89,33050.00,30020.00
+51-6090,"Miscellaneous Textile, Apparel, and Furnishings Workers",58030.00,,18.77,39050.00,37030.00
+51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",14040.00,,19.52,40600.00,37550.00
+51-6092,Fabric and Apparel Patternmakers,3220.00,,30.81,64070.00,58650.00
+51-6093,Upholsterers,28020.00,,18.38,38220.00,37420.00
+51-6099,"Textile, Apparel, and Furnishings Workers, All Other",12750.00,,15.79,32840.00,29750.00
+51-7000,Woodworkers,230400.00,,18.04,37520.00,36680.00
+51-7010,Cabinetmakers and Bench Carpenters,93070.00,,19.27,40070.00,37540.00
+51-7011,Cabinetmakers and Bench Carpenters,93070.00,,19.27,40070.00,37540.00
+51-7020,Furniture Finishers,16300.00,,17.94,37310.00,36580.00
+51-7021,Furniture Finishers,16300.00,,17.94,37310.00,36580.00
+51-7030,"Model Makers and Patternmakers, Wood",550.00,,27.19,56560.00,57410.00
+51-7031,"Model Makers, Wood",340.00,,28.87,60040.00,60780.00
+51-7032,"Patternmakers, Wood",210.00,,24.53,51020.00,46920.00
+51-7040,"Woodworking Machine Setters, Operators, and Tenders",112560.00,,17.04,35450.00,35850.00
+51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",45350.00,,16.96,35280.00,35340.00
+51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",67210.00,,17.10,35560.00,36090.00
+51-7090,Miscellaneous Woodworkers,7910.00,,17.35,36080.00,35610.00
+51-7099,"Woodworkers, All Other",7910.00,,17.35,36080.00,35610.00
+51-8000,Plant and System Operators,280900.00,,31.83,66210.00,61350.00
+51-8010,"Power Plant Operators, Distributors, and Dispatchers",43440.00,,42.99,89410.00,94790.00
+51-8011,Nuclear Power Reactor Operators,4820.00,,53.47,111220.00,104260.00
+51-8012,Power Distributors and Dispatchers,9660.00,,45.92,95520.00,98530.00
+51-8013,Power Plant Operators,28960.00,,40.26,83740.00,80850.00
+51-8020,Stationary Engineers and Boiler Operators,29820.00,,33.90,70510.00,63500.00
+51-8021,Stationary Engineers and Boiler Operators,29820.00,,33.90,70510.00,63500.00
+51-8030,Water and Wastewater Treatment Plant and System Operators,121150.00,,25.15,52320.00,47880.00
+51-8031,Water and Wastewater Treatment Plant and System Operators,121150.00,,25.15,52320.00,47880.00
+51-8090,Miscellaneous Plant and System Operators,86500.00,,34.88,72540.00,76670.00
+51-8091,Chemical Plant and System Operators,21740.00,,33.18,69020.00,70200.00
+51-8092,Gas Plant Operators,15110.00,,37.01,76970.00,77850.00
+51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",34230.00,,38.70,80500.00,79540.00
+51-8099,"Plant and System Operators, All Other",15420.00,,26.67,55480.00,50250.00
+51-9000,Other Production Occupations,2409900.00,,20.11,41820.00,37710.00
+51-9010,"Chemical Processing Machine Setters, Operators, and Tenders",154790.00,,24.40,50760.00,47580.00
+51-9011,Chemical Equipment Operators and Tenders,106170.00,,25.22,52450.00,48090.00
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",48620.00,,22.62,47060.00,46030.00
+51-9020,"Crushing, Grinding, Polishing, Mixing, and Blending Workers",155920.00,,20.14,41900.00,38160.00
+51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",31800.00,,20.57,42790.00,38760.00
+51-9022,"Grinding and Polishing Workers, Hand",15680.00,,17.30,35990.00,35670.00
+51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",108440.00,,20.43,42490.00,38420.00
+51-9030,Cutting Workers,63850.00,,18.90,39300.00,37660.00
+51-9031,"Cutters and Trimmers, Hand",7920.00,,16.51,34330.00,30230.00
+51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",55930.00,,19.23,40010.00,37810.00
+51-9040,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",56570.00,,19.25,40050.00,37660.00
+51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",56570.00,,19.25,40050.00,37660.00
+51-9050,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",14180.00,,21.11,43910.00,43710.00
+51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",14180.00,,21.11,43910.00,43710.00
+51-9060,"Inspectors, Testers, Sorters, Samplers, and Weighers",551380.00,,21.54,44810.00,38580.00
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",551380.00,,21.54,44810.00,38580.00
+51-9070,Jewelers and Precious Stone and Metal Workers,24350.00,,22.64,47090.00,46640.00
+51-9071,Jewelers and Precious Stone and Metal Workers,24350.00,,22.64,47090.00,46640.00
+51-9080,Dental and Ophthalmic Laboratory Technicians and Medical Appliance Technicians,68380.00,,21.52,44770.00,39090.00
+51-9081,Dental Laboratory Technicians,34150.00,,22.75,47320.00,45770.00
+51-9082,Medical Appliance Technicians,15300.00,,22.27,46320.00,45280.00
+51-9083,Ophthalmic Laboratory Technicians,18930.00,,18.71,38910.00,37270.00
+51-9110,Packaging and Filling Machine Operators and Tenders,358640.00,,17.67,36750.00,35960.00
+51-9111,Packaging and Filling Machine Operators and Tenders,358640.00,,17.67,36750.00,35960.00
+51-9120,Painting Workers,157250.00,,20.90,43480.00,38670.00
+51-9123,"Painting, Coating, and Decorating Workers",11850.00,,18.39,38250.00,37330.00
+51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",145410.00,,21.11,43900.00,39130.00
+51-9140,Semiconductor Processing Technicians,24020.00,,22.07,45910.00,39870.00
+51-9141,Semiconductor Processing Technicians,24020.00,,22.07,45910.00,39870.00
+51-9150,Photographic Process Workers and Processing Machine Operators,5740.00,,19.37,40300.00,36590.00
+51-9151,Photographic Process Workers and Processing Machine Operators,5740.00,,19.37,40300.00,36590.00
+51-9160,Computer Numerically Controlled Tool Operators and Programmers,183630.00,,23.32,48500.00,47380.00
+51-9161,Computer Numerically Controlled Tool Operators,157840.00,,22.23,46240.00,46640.00
+51-9162,Computer Numerically Controlled Tool Programmers,25800.00,,29.98,62360.00,60780.00
+51-9190,Miscellaneous Production Workers,591200.00,,17.75,36920.00,35840.00
+51-9191,Adhesive Bonding Machine Operators and Tenders,12510.00,,18.55,38580.00,37630.00
+51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",13580.00,,17.22,35820.00,35090.00
+51-9193,Cooling and Freezing Equipment Operators and Tenders,7500.00,,20.63,42910.00,40390.00
+51-9194,Etchers and Engravers,7110.00,,17.77,36970.00,36590.00
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",38420.00,,18.76,39020.00,37500.00
+51-9196,"Paper Goods Machine Setters, Operators, and Tenders",87480.00,,21.24,44180.00,44820.00
+51-9197,Tire Builders,17240.00,,23.00,47840.00,47940.00
+51-9198,Helpers--Production Workers,202860.00,,15.82,32910.00,30000.00
+51-9199,"Production Workers, All Other",204500.00,,17.42,36230.00,32930.00
+53-0000,Transportation and Material Moving Occupations,12639920.00,,19.88,41340.00,36860.00
+53-1000,Supervisors of Transportation and Material Moving Workers,557850.00,,28.19,58630.00,54830.00
+53-1040,First-Line Supervisors of Transportation and Material Moving Workers,557850.00,,28.19,58630.00,54830.00
+53-1041,Aircraft Cargo Handling Supervisors,8590.00,,29.84,62080.00,53540.00
+53-1047,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",549260.00,,28.16,58580.00,54850.00
+53-2000,Air Transportation Workers,254820.00,,*,119590.00,82170.00
+53-2010,Aircraft Pilots and Flight Engineers,124080.00,,*,169540.00,134630.00
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",81310.00,,*,198190.00,202180.00
+53-2012,Commercial Pilots,42770.00,,*,115080.00,99640.00
+53-2020,Air Traffic Controllers and Airfield Operations Specialists,33830.00,,48.32,100510.00,90600.00
+53-2021,Air Traffic Controllers,21230.00,,61.50,127920.00,129750.00
+53-2022,Airfield Operations Specialists,12610.00,,26.13,54360.00,47880.00
+53-2030,Flight Attendants,96900.00,,*,62280.00,61640.00
+53-2031,Flight Attendants,96900.00,,*,62280.00,61640.00
+53-3000,Motor Vehicle Operators,4147650.00,,21.31,44330.00,42670.00
+53-3010,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",11710.00,,14.93,31060.00,29120.00
+53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",11710.00,,14.93,31060.00,29120.00
+53-3030,Driver/Sales Workers and Truck Drivers,3390490.00,,21.85,45460.00,45580.00
+53-3031,Driver/Sales Workers,477020.00,,15.37,31970.00,29280.00
+53-3032,Heavy and Tractor-Trailer Truck Drivers,1903420.00,,24.20,50340.00,48310.00
+53-3033,Light Truck Drivers,1010040.00,,20.50,42630.00,38280.00
+53-3050,Passenger Vehicle Drivers,696760.00,,19.06,39640.00,37540.00
+53-3051,"Bus Drivers, School",361420.00,,18.63,38750.00,37910.00
+53-3052,"Bus Drivers, Transit and Intercity",145720.00,,24.67,51310.00,48620.00
+53-3053,Shuttle Drivers and Chauffeurs,175660.00,,15.66,32570.00,30000.00
+53-3054,Taxi Drivers,13950.00,,14.45,30050.00,29310.00
+53-3090,Miscellaneous Motor Vehicle Operators,48690.00,,17.51,36410.00,30600.00
+53-3099,"Motor Vehicle Operators, All Other",48690.00,,17.51,36410.00,30600.00
+53-4000,Rail Transportation Workers,119120.00,,32.85,68330.00,64170.00
+53-4010,Locomotive Engineers and Operators,43440.00,,34.33,71410.00,78680.00
+53-4011,Locomotive Engineers,38980.00,,35.07,72940.00,79740.00
+53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",4460.00,,27.92,58070.00,61090.00
+53-4020,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",16200.00,,30.31,63050.00,63840.00
+53-4022,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",16200.00,,30.31,63050.00,63840.00
+53-4030,Railroad Conductors and Yardmasters,48030.00,,32.21,66990.00,63960.00
+53-4031,Railroad Conductors and Yardmasters,48030.00,,32.21,66990.00,63960.00
+53-4040,Subway and Streetcar Operators,10310.00,,34.38,71520.00,81180.00
+53-4041,Subway and Streetcar Operators,10310.00,,34.38,71520.00,81180.00
+53-4090,Miscellaneous Rail Transportation Workers,1140.00,,26.03,54140.00,47590.00
+53-4099,"Rail Transportation Workers, All Other",1140.00,,26.03,54140.00,47590.00
+53-5000,Water Transportation Workers,70480.00,,38.84,80780.00,62760.00
+53-5010,Sailors and Marine Oilers,26610.00,,27.79,57800.00,46720.00
+53-5011,Sailors and Marine Oilers,26610.00,,27.79,57800.00,46720.00
+53-5020,Ship and Boat Captains and Operators,36220.00,,45.31,94250.00,80010.00
+53-5021,"Captains, Mates, and Pilots of Water Vessels",33490.00,,47.27,98330.00,81640.00
+53-5022,Motorboat Operators,2740.00,,21.35,44410.00,38670.00
+53-5030,Ship Engineers,7650.00,,46.59,96910.00,82410.00
+53-5031,Ship Engineers,7650.00,,46.59,96910.00,82410.00
+53-6000,Other Transportation Workers,286680.00,,17.26,35900.00,29940.00
+53-6010,Bridge and Lock Tenders,4040.00,,21.52,44760.00,45390.00
+53-6011,Bridge and Lock Tenders,4040.00,,21.52,44760.00,45390.00
+53-6020,Parking Attendants,91160.00,,14.04,29210.00,29240.00
+53-6021,Parking Attendants,91160.00,,14.04,29210.00,29240.00
+53-6030,Transportation Service Attendants,123660.00,,14.81,30810.00,29570.00
+53-6031,Automotive and Watercraft Service Attendants,111480.00,,14.40,29960.00,29330.00
+53-6032,Aircraft Service Attendants,12170.00,,18.58,38640.00,36390.00
+53-6040,Traffic Technicians,7770.00,,25.58,53210.00,48610.00
+53-6041,Traffic Technicians,7770.00,,25.58,53210.00,48610.00
+53-6050,Transportation Inspectors,25070.00,,37.32,77620.00,79770.00
+53-6051,Transportation Inspectors,25070.00,,37.32,77620.00,79770.00
+53-6060,Passenger Attendants,21240.00,,16.53,34380.00,30470.00
+53-6061,Passenger Attendants,21240.00,,16.53,34380.00,30470.00
+53-6090,Miscellaneous Transportation Workers,13750.00,,19.23,39990.00,36880.00
+53-6099,"Transportation Workers, All Other",13750.00,,19.23,39990.00,36880.00
+53-7000,Material Moving Workers,7203320.00,,16.78,34900.00,31010.00
+53-7010,Conveyor Operators and Tenders,28650.00,,17.80,37010.00,36420.00
+53-7011,Conveyor Operators and Tenders,28650.00,,17.80,37010.00,36420.00
+53-7020,Crane and Tower Operators,43400.00,,31.38,65270.00,62240.00
+53-7021,Crane and Tower Operators,43400.00,,31.38,65270.00,62240.00
+53-7030,Dredge Operators,1650.00,,24.29,50530.00,46210.00
+53-7031,Dredge Operators,1650.00,,24.29,50530.00,46210.00
+53-7040,Hoist and Winch Operators,2610.00,,28.10,58450.00,52300.00
+53-7041,Hoist and Winch Operators,2610.00,,28.10,58450.00,52300.00
+53-7050,Industrial Truck and Tractor Operators,758290.00,,19.69,40950.00,38380.00
+53-7051,Industrial Truck and Tractor Operators,758290.00,,19.69,40950.00,38380.00
+53-7060,Laborers and Material Movers,6178560.00,,16.14,33570.00,30320.00
+53-7061,Cleaners of Vehicles and Equipment,351960.00,,14.69,30550.00,29280.00
+53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",2729010.00,,16.80,34950.00,31230.00
+53-7063,Machine Feeders and Offbearers,60880.00,,17.63,36660.00,37010.00
+53-7064,"Packers and Packagers, Hand",585270.00,,14.88,30950.00,29940.00
+53-7065,Stockers and Order Fillers,2451430.00,,15.87,33020.00,30110.00
+53-7070,Pumping Station Operators,29550.00,,30.09,62590.00,62090.00
+53-7071,Gas Compressor and Gas Pumping Station Operators,2910.00,,32.27,67130.00,70720.00
+53-7072,"Pump Operators, Except Wellhead Pumpers",10600.00,,26.15,54400.00,49580.00
+53-7073,Wellhead Pumpers,16040.00,,32.29,67170.00,63740.00
+53-7080,Refuse and Recyclable Material Collectors,126050.00,,20.57,42780.00,38500.00
+53-7081,Refuse and Recyclable Material Collectors,126050.00,,20.57,42780.00,38500.00
+53-7120,"Tank Car, Truck, and Ship Loaders",12090.00,,26.60,55330.00,49390.00
+53-7121,"Tank Car, Truck, and Ship Loaders",12090.00,,26.60,55330.00,49390.00
+53-7190,Miscellaneous Material Moving Workers,22470.00,,19.32,40190.00,36150.00
+53-7199,"Material Moving Workers, All Other",22470.00,,19.32,40190.00,36150.00
